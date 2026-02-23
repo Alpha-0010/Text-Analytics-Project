@@ -1,0 +1,2 @@
+n_documents,spearman_rho,spearman_pvalue,mean_same_tier_sim,mean_cross_tier_sim,kmeans_k3_ari,best_k_silhouette
+42,0.0296,0.385743,0.1844,0.1782,-0.024,2

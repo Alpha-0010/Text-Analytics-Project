@@ -1,0 +1,44 @@
+university,country,region,qs_rank,qs_rank_numeric,tier,pdf_url
+Imperial College London,United Kingdom,Europe,2,2,Top,https://www.imperial.ac.uk/media/imperial-college/about/leadership-and-strategy/president/public/Imperial-Strategy---Science-for-Humanity.pdf
+University of Oxford,United Kingdom,Europe,4,4,Top,https://www.ox.ac.uk/sites/files/oxford/field/field_document/Strategic%20Plan%202018-24.pdf
+ETH Zurich,Switzerland,Europe,7,7,Top,https://ethz.ch/content/dam/ethz/main/eth-zurich/portraet/Strategie/ETH_SEP_21-24_EN_Web.pdf
+Technical University of Munich,Germany,Europe,22,22,Top,https://mediatum.ub.tum.de/doc/1657205/1657205.pdf
+Trinity College Dublin,Ireland,Europe,75,75,Top,https://detail.ie/extranet/TCD/strategy/TCD_Strategy_2025%E2%80%9330_PDF_A4_Download_EN.pdf
+Utrecht University,Netherlands,Europe,103,103,Mid,https://www.uu.nl/sites/default/files/UtrechtUniversity-StrategicPlan2030.pdf
+University College Dublin,Ireland,Europe,118,118,Mid,https://www.ucd.ie/strategy/t4media/UCD%20Strategy%20to%202030.pdf
+Stockholm University,Sweden,Europe,147,147,Mid,https://www.su.se/download/18.11777a0b1993704a058eed8/1758618593163/Strategies%202023-2026%20designed%20PDF%20with%20picturesStrategies%202023_eng_Slutkorr.pdf
+University of Northampton,United Kingdom,Europe,1201-1400,1300,Lower,https://www.northampton.ac.uk/wp-content/uploads/2023/10/uon-strategy.pdf
+University of Split,Croatia,Europe,1201-1400,1300,Lower,https://www.oss.unist.hr/Portals/0/adam/Contents/yOdk4FRdn0W-0vUPredWWQ/Text/Strategija%202026-2030_ENG.pdf
+University of Hong Kong,Hong Kong,Asia,32,32,Top,https://www.hku.hk/about/strategic-plan/
+Nanyang Technological University,Singapore,Asia,12,12,Top,https://www.ntu.edu.sg/docs/default-source/corporate-ntu/ntu-2025-strategy.pdf
+Hong Kong Polytechnic University,Hong Kong,Asia,57,57,Top,https://www.polyu.edu.hk/en/about-polyu/strategic-plan/
+Seoul National University,South Korea,Asia,38,38,Top,https://en.snu.ac.kr/about/overview/vision
+Universiti Malaya,Malaysia,Asia,58,58,Top,https://um.edu.my/docs/default-source/corporate-strategy/
+Nazarbayev University,Kazakhstan,Asia,201,201,Mid,https://regulations.nu.edu.kz/bitstream/123456789/665/10/Strategy%202018-2030.pdf
+Anna University,India,Asia,465,465,Mid,https://nec.edu.in/wp-content/uploads/2024/01/Strategic-Planning-Manual.pdf
+Ben-Gurion University of the Negev,Israel,Asia,469,469,Mid,https://www.bgu.ac.il/media/qwedxrgn/strategic-plan-2020_hebeng.pdf
+Anadolu University,Turkey,Asia,1401+,1500,Lower,https://cdn.anadolu.edu.tr/files/anadolu-cms/qYwjOlvn/file/487471166afbfd2a/eua-ozdegerlendirme-raporu-en.pdf
+Atma Jaya Catholic University,Indonesia,Asia,1401+,1500,Lower,https://www.atmajaya.ac.id/en/media/fh-rencana-strategis.pdf
+University of Auckland,New Zealand,Australia/NZ,65,65,Top,https://www.auckland.ac.nz/assets/about-us/about-the-university/the-university/official-publications/strategic-plan/2021-2030/taumata-teitei-vision-2030-strategic-plan-2028.pdf
+University of Queensland,Australia,Australia/NZ,42,42,Top,https://about.uq.edu.au/sites/default/files/2025-12/strategic-plan-2026-2029.pdf
+University of Otago,New Zealand,Australia/NZ,197,197,Mid,https://www.otago.ac.nz/__data/assets/pdf_file/0029/314885/download-pae-tata-strategic-plan-to-2030-0245908.pdf
+Deakin University,Australia,Australia/NZ,207,207,Mid,https://www.deakin.edu.au/__data/assets/pdf_file/0020/115157/deakin-university-strategic-plan.pdf
+University of Newcastle,Australia,Australia/NZ,227,227,Mid,https://www.newcastle.edu.au/__data/assets/pdf_file/0008/607292/Strategic-Plan-2020-2025.pdf
+La Trobe University,Australia,Australia/NZ,233,233,Mid,https://www.latrobe.edu.au/about/downloads/La-Trobe-University-2025-2030-Strategic-Plan.pdf
+University of Canterbury,New Zealand,Australia/NZ,261,261,Mid,https://www.canterbury.ac.nz/about-uc/corporate-information/strategy-and-plans/uc-strategic-vision-2020-2030
+University of Waikato,New Zealand,Australia/NZ,281,281,Mid,https://www.waikato.ac.nz/assets/Uploads/About-us/Governance-and-reporting/Key-documents-and-policies/UoW-Vision-and-Strategy-2025-2029-Digital.pdf
+University of Tasmania,Australia,Australia/NZ,314,314,Mid,https://www.utas.edu.au/__data/assets/pdf_file/0007/1794652/University-of-Tasmania-Strategic-Plan-2025-Refresh.pdf
+Murdoch University,Australia,Australia/NZ,423,423,Mid,https://www.murdoch.edu.au/explore/our-strategy
+Stanford University,USA,North America,3,3,Top,https://ourvision.stanford.edu/
+Harvard University,USA,North America,5,5,Top,https://www.harvard.edu/about/strategic-plan/
+University of Michigan,USA,North America,45,45,Top,https://strategicplan.umich.edu/
+University of Kansas,USA,North America,465,465,Mid,https://provost.ku.edu/bold-aspirations
+Texas Tech University,USA,North America,731-740,735,Lower,https://www.depts.ttu.edu/president/strategic-plan/
+MIT,USA,Americas+Africa,1,1,Top,https://mit2030.mit.edu/
+Princeton University,USA,Americas+Africa,24,24,Top,https://strategic-plan.princeton.edu/
+University of Toronto,Canada,Americas+Africa,29,29,Top,https://strategicplan.utoronto.ca/
+University of Cape Town,South Africa,Americas+Africa,150,150,Mid,https://www.uct.ac.za/about/strategy
+University of Witwatersrand,South Africa,Americas+Africa,291,291,Mid,https://www.wits.ac.za/strategy/
+Universidad de los Andes,Colombia,Americas+Africa,212,212,Mid,https://uniandes.edu.co/en/plan-estrategico
+Auburn University,USA,Americas+Africa,851-900,875,Lower,https://strategicplan.auburn.edu/
+Miami University,USA,Americas+Africa,1201-1400,1300,Lower,https://miamioh.edu/strategic-plan/

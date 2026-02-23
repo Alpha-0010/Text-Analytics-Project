@@ -1,0 +1,1975 @@
+ANADOLU
+UNIVERSITY
+INSTITUTIONAL
+SELF-EVALUATION
+REPORT
+INDEX
+Page No
+INDEX .................................................................................................................................................... ii
+LIST OF TABLES ................................................................................................................................ v
+LIST OF APPENDICES ..................................................................................................................... vi
+ANADOLU UNIVERSITY EUA SELF-EVALUATION GROUP ................................................. vii
+1. INTRODUCTION .......................................................................................................................... 1
+1.1. The Self-Evaluation Group Members ...................................................................................... 1
+1.2. Involvement of Stakeholders ..................................................................................................... 2
+1.3. The Sharing Process of the Self-evaluation Report .......................................................... 2
+1.4. The Experience of Institutional Self-evaluation Process ................................................ 2
+2. INSTITUTIONAL CONTEXT ....................................................................................................... 3
+2.1. The History of Anadolu University ............................................................................................ 3
+2.2. The Legal Status of Anadolu University ................................................................................... 3
+2.3. National and Regional Labor Market ...................................................................................... 3
+2.4. Location and Infrastructure ........................................................................................................ 4
+2.5. The Number of the Faculties and Research Centers .......................................................... 4
+2.6. Institutional Autonomy .................................................................................................................. 4
+2.6.1. Institutional Autonomy in terms of Human Resources and Financial
+Resources ........................................................................................................................... 4
+2.6.2. The Capacity of Determining Education, Research, and Innovation
+Profile .................................................................................................................................... 5
+2.6.3. The Capacity of Determining the Administrative Structure ........................... 8
+2.7. The National Quality Assurance System ................................................................................ 8
+Page No
+3. MAIN REPORT ............................................................................................................................. 9
+3.1. Vision, Mission, and Strategic Objectives ................................................................................ 9
+3.1.1. Vision Statement ............................................................................................................... 9
+3.1.2. Mission Statement ............................................................................................................ 9
+3.1.3. Core Values ........................................................................................................................ 9
+3.1.4. Strategic Objectives ........................................................................................................ 9
+3.2. Governance and Activities ............................................................................................................ 10
+3.3. Quality Assessment Policies ........................................................................................................ 10
+3.3.1. Institutional Quality Assurance Policies ................................................................ 11
+3.3.2. Institutional Evaluation Regarding the Programme, Department and
+Research .............................................................................................................................. 12
+3.3.3. Institutional Application of European Norms Regarding Institutional
+Assurance Quality ............................................................................................................ 13
+3.3.3.1. Quality Assurance Policies and Procedures ....................................... 13
+3.3.3.2. Revising and Upgrading Programmes/Levels ................................. 13
+3.3.3.3. Student Assessment ...................................................................................... 13
+3.3.3.4. Academic Staff Competence ...................................................................... 13
+3.3.3.5. Learning Resources and Student Support .......................................... 14
+3.3.3.6. Information Systems ................................................................................... 16
+3.3.3.7. Public Information ......................................................................................... 17
+3.3.4. The Effect of Collected Data on the Activities ....................................................... 17
+3.3.5. The Relationship between Strategic Choices and Institutional
+Activities .............................................................................................................................. 18
+3.4. Strategic Management and Capacity for Change ................................................................ 22
+3.4.1. The Level of Meeting External Demand ................................................................... 22
+3.4.2. Involvement of External Stakeholders in Strategic Management ................. 24
+iii
+Page No
+"""""" 3.4.3. Extent of Autonomy ........................................................................................................ 24
+3.4.4. Changes to be Made Regarding the Institutional Objectives ........................ 24
+3.4.5. The Consistency among Mission, Objectives and Activities ........................... 25
+3.4.6. The Role of Quality Monitoring and Quality Management Processes ........ 25
+3.5. Anadolu University and Internationalization ...................................................................... 25
+3.5.1. Internationalization and Instructors ...................................................................... 26
+3.5.2. Anadolu University Dual Degree Programs .......................................................... 26
+3.5.3. Cross-Border Higher Education Activities ............................................................. 26
+3.5.4. European Volunteer Service (EVS) ............................................................................ 27
+3.5.5. Courses Based on International Cooperation ....................................................... 27
+LIST OF TABLES
+Page
+Number
+Çizelge 1. The Self-Evaluation Group Members ........................................................................ 1
+LIST OF APPENDICES
+Page
+Number
+APPENDIX-1. ANADOLU UNIVERSITY 2014-2018 STRATEGIC PLAN ........................... 28
+APPENDIX-2. GENERAL STRUCTURE OF THE TURKISH EDUCATION SYSTEM .......... 44
+APPENDIX-3. ORGANIZATION CHART OF ANADOLU UNIVERSITY ................................ 45
+APPENDIX-4. DISTRIBUTION OF ACADEMIC STAFF ACCORDING TO ACADEMIC
+UNITS ........................................................................................................................ 46
+APPENDIX-5. NUMBER AND STATUS OF STAFF BY YEAR ................................................. 47
+APPENDIX-6. ORGANIZATION CHART IN THE FACULTIES .............................................. 48
+APPENDIX-7. CERTIFICATE OF APPRECIATION GIVEN BY THE PRESIDENCY OF
+TURKISH COUNCIL OF HIGHER EDUCATION FOR THE SUCCESSFUL
+WORK CARRIED OUT WITHIN TURKEY HIGHER EDUCATION
+QUALIFICATIONS FRAMEWORK (THEQF) ................................................. 49
+APPENDIX-8. THE LIST OF CENTERS OPENED IN THE LAST FIVE YEARS .................. 50
+APPENDIX-9. EUROPEAN VOLUNTEER SERVICE ACCREDITATION CERTIFICATE .... 51
+ANADOLU UNIVERSITY INSTITUTIONAL SELF-EVALUATION GROU
+Group Leader:
+Prof. Dr. Adnan ÖZCAN Vice-Rector (Education and International Relations)
+Team Members:
+Prof. Dr. Aydın AYBAR Vice-Rector (Personnel)
+Çetin KAYA Secretary General
+Prof. Dr. Tuncay DÖĞEROĞLU Dean, Faculty of Engineering
+Prof. Dr. Hayrettin TÜRK Dean, Faculty of Science
+Prof. Dr. Dilek AK Director, Graduate School of Health Sciences
+Director, Research Institute for Individuals with
+Prof. Dr. İbrahim Halil DİKEN
+Disabilities
+Prof. Dr. Hüseyin KOCA Director, Porsuk Vocational School
+Prof. Dr. Yaşar HOŞCAN Director, Computer Sciences and Application Center
+Prof. Dr. Deniz TAŞCI Academician, Faculty of Communication
+Assoc. Prof. Dr.Belgin AYDIN D i r e ctor, School of Foreign Languages
+Open Education Faculty Group Coordinator/Director,
+Assoc. Prof. Dr.Harun SÖNMEZ
+Statistical Information Unit
+Assoc. Prof. Dr.Bilge Kağan ÖZDEMİR D i r e c t or, International Relations Unit
+Assoc. Prof. Dr.Murat ERDEM A c a d emician, Faculty of Science
+Asst. Prof. Dr. Asuman Nurhan ŞAKAR Group Coordinator, Open Education Faculty
+Academician, Faculty of Economics and Administrative
+Asst. Prof. Dr. Burak Tuğberk TOSUNOĞLU
+Sciences
+Academician, Faculty of Economics and Administrative
+Asst. Prof. Dr. Ahmet Emre DEMİRCİ
+Sciences
+Asst. Prof. Dr. Tolga AKKAYA Academician, Faculty of Law
+Hülya Deniz SAZAK Director, Strategic Research Center
+Ersin BATILILAR Financial Services Specialist/Internal Audit Specialist
+Anadolu University Academic Evaluation and Quality
+Feyza İPEKTEN
+Improvement (ANADEK) Coordination
+Ümit ÜN ANADEK Coordination Office
+Nilüfer TEKİN Financial Services Specialist/Strategic Planning
+Buğrahan ÖZDOĞAN Head, Student Council
+Student, Faculty of Economics and Administrative
+Ali BENLİ
+Sciences/Open Education Faculty
+Işıl TEKİN Student, Faculty of Education
+Ali BÜYÜKPINAR Student, Faculty of Science/Open Education Faculty
+Engin BAYRAKTAROĞLU Research Assisstant Representative/PhD Student
+vii
+1. INTRODUCTION
+Anadolu University, a long-time member of European University Association (EUA),
+completed its first institutional evaluation process, made the required changes considering the
+feedback obtained from the evaluation and now considers applying a new external evaluation
+process as an integral part of its quality improvement efforts. As one of the largest universities in
+the world with a pioneering role in many fields, Anadolu University has been focusing on
+continuous improvement in order to sustain its accomplishments and take further steps towards
+its goals.
+Bologna Process combined with the increasing importance of the internalization and
+Turkey's effort to become a full member of the European Union made a major impact on Turkish
+higher education institutions to review their systems. Anadolu University strongly believes that
+EUA evaluation process and its outcomes will make a great contribution to enhance its
+continuous improvement efforts.
+1.1. The Self-evaluation Group Members
+The self-evaluation group members taking part in the preparation of Anadolu University's
+self-evaluation report are listed on Table 1.
+Table 1. The Self-evaluation Group Members
+Vice-Rector (Education and International
+Prof. Dr. Adnan ÖZCAN
+Relations)
+Prof. Dr. Aydın AYBAR Vice-Rector (Personnel)
+Çetin KAYA Secretary General
+Prof. Dr. Tuncay DÖĞEROĞLU Dean, Faculty of Engineering
+Prof. Dr. Hayrettin TÜRK Dean, Faculty of Science
+Prof. Dr. Dilek AK Director, Graduate School of Health Sciences
+Director, Research Institute for Individual with
+Prof. Dr. İbrahim Halil DİKEN
+Disabilities
+Prof. Dr. Hüseyin KOCA Director, Porsuk Vocational School
+Director, Computer Sciences and Application
+Prof. Dr. Yaşar HOŞCAN
+Center
+Prof. Dr. Deniz TAŞCI Academician, Faculty of Communication
+Assoc. Prof. Dr.Belgin AYDIN D i rector, School of Foreign Languages
+Open Education Faculty Group Coordinator/
+Assoc. Prof. Dr.Harun SÖNMEZ
+Director, Statistical Information Unit
+Assoc. Prof. Dr.Bilge Kağan ÖZDEMİR D i r e ctor, International Relations Unit
+Assoc. Prof. Dr.Murat ERDEM A c ademician, Faculty of Science
+Asst. Prof. Dr. Asuman Nurhan ŞAKAR Group Coordinator, Open Education Faculty
+Asst. Prof. Dr. Burak Tuğberk TOSUNOĞLU Academician, Faculty of Economics and
+Administrative Sciences
+Academician, Faculty of Economics and
+Asst. Prof. Dr. . Ahmet Emre DEMİRCİ
+Administrative Sciences
+Asst. Prof. Dr. Tolga AKKAYA Academician, Faculty of Law
+Hülya Deniz SAZAK Director, Strategic Research Center
+Financial Services Specialist/Internal Audit
+Ersin BATILILAR
+Specialist
+Anadolu University Academic Evaluation and
+Feyza İPEKTEN
+Quality Improvement (ANADEK) Coordination
+Ümit ÜN ANADEK Coordination Office
+Nilüfer TEKİN Financial Services Specialist/Strategic Planning
+Buğrahan ÖZDOĞAN Head, Student Council
+Student, Faculty of Economics and Administrative
+Ali BENLİ
+Sciences/Open Education Faculty
+Işıl TEKİN Student, Faculty of Education
+1.2. Involvement of Stakeholders
+During the preparation of the self-evaluation report, there has been cooperation with the
+representatives of the sector, the students and their representatives, the deans of the faculties,
+the heads of the departments, the directors of the institutions and the units, and the academic
+members.
+1.3. The Sharing Process of the Self-Evaluation Report
+The self-evaluation report has been shared with the whole academic and administrative
+personnel and the students. Moreover, it has been available on the Open Education Faculty's
+webpage for the students having a distant education. The required changes have been made
+taking the feedback into consideration.
+1.4. The Experience of Institutional Self-Evaluation Process
+The following factors influenced the preparation of the Self-Evaluation Report process
+positively;
+ The same team members prepared the Universtiy's Strategic Plan for the years 2014-
+2018 a short time ago (Appendix 1).
+ Some of the team members having taken charge in the previous EUA evaluation
+participated in the evaluation process.
+ The self-evaluation report team included the members from different academic and
+administrative units representing the University.
+ The team got together every week to prepare the self-evaluation report.
+ Some preliminary work was done by a sub-group in order to speed the preparation
+process.
+ The team included students from different units and educational levels.
+ The report was prepared colloboratively; it was shared with different stakeholders, and
+their opinions were taken into consideration in the final version.
+On the other hand,
+ The heavy workload of the team members was the factor influencing the preparation
+process of the self-evaluation report negatively.
+2. INSTUTIONAL CONTEXT
+2.1. The History of Anadolu University
+The foundation of Anadolu University goes back to 1958, a time when Eskişehir Academy
+of Economic and Commercial Sciences was established. In 1982, the Academy was replaced by
+Anadolu University, which has gained a well-deserved place as a modern, dynamic and
+innovative institution among the largest universities not only in Turkey but also in the world.
+Some of the faculties and schools as well as the majority of administrative units and social
+facilities are located at Yunusemre Campus, which is at the center of Eskişehir, renowned as a
+center of science and culture and a city of youth. İki Eylül Campus, which houses the Faculty of
+Sports Sciences, the Faculty of Aeronautics and Astronautics, the Faculty of Engineering, and the
+School of Foreign Languages, is only five kilometers to the city center. Anadolu Airport is
+situated on this campus as well. Porsuk and Transportation Vocational Schools offer education
+in the city center.
+Anadolu University is an institution, promoting universal higher education values and
+blazing trails in the Turkish higher education with its 17 faculties (3 of which offer open
+education), 4 vocational schools, 3 schools, 9 graduate schools, 30 research centers, and 21
+research, development and application units. Anadolu University stands out with the innovative
+initiatives in the distance education system. Today the total number of students in three faculties
+offering open education is over one million. This system has been taken as a model by many
+universities.
+2.2. The Legal Status of Anadolu University
+In Turkey, the formal educational system is composed of 4 years of primary school, 4 years
+of secondary school, 4 years of high school and higher education (Appendix 2). The higher
+education is defined as all post-secondary programs of at least two years duration. Ministry of
+National Education (MoNE) and the Council of Higher Education (CoHE) are two bodies in
+charge of education in Turkey. CoHE, as the central regulatory body, is responsible for higher
+education including graduate studies whereas MoNE is in charge of all lower level education.
+There are 184 higher education institutions 72 of which are foundation universities in
+Turkey. Anadolu University is a state university.
+2.3. National and Regional Labor Market
+The Key Features of Labor Market in Turkey: In Turkey, the most important problem of
+the labor market with its great potential due to its young population is low labor force
+participation rate. There has been differing views about the reasons of high unemployment and
+low labor force participation rate. Especially structural issues such as the rural depopulation
+process continuing increasingly and the industrialization occurring slowly are among the most
+prominent views. Moreover, women's labor force participation being extremely low is another
+structural issue. The work force costs being relatively high and the intensive capital structure
+being an important source for the economic growth are among the other factors listed as the
+explanations about the topic.
+The Key Features of Labor Market in Eskişehir: When the demographic features of
+Eskişehir are considered, the city's population as a whole is 812.320 by 2014. The population
+consists of 49.9% men and 50.1% women. The population of working age (14-64) in Eskişehir is
+582.837. This group constitutes 71.7% of the whole population. The population growth rate of
+Eskişehir in 2013-2014 is 1.58%. The working age in Eskişehir in proportion to the city's
+population is higher than the country-wide working age. Child population rate of the city (0-14)
+is lower than the country-wide rate. The old aged population rate (over the age of 65) is higher
+than the country-wide rate. The old aged dependency rate being 13.6% is higher than 11.8%
+country-wide rate, while young dependency rate being 39.6% is lower than the % 48 country-
+wide rate. As for child dependency, it is 25.4% in Eskişehir and 36.9% in Turkey. According to
+the results of "The Demand Research in Labor Market in Eskişehir" by June 30, 2014, the three
+sectors having a locomotive role in the net unemployment change are manufacturing,
+construction and wholesale and retail trade. The net unemployment change rate being 4.8% in
+Turkey is 3.4% in Eskişehir by June 30, 2014.
+2.4. Location and Infrastructure
+Anadolu University constitutes 3 campuses all located in Eskişehir. Yunusemre Campus is
+the main campus housing the Rectorate building, the library, the student center, conference
+centers, 14 faculties, 7 graduate schools, 1 school, 1 state conservatory, 2 vocational schools and
+26 research centers. Iki Eylül, the second campus, houses 3 faculties, 1 graduate school, 1
+vocational school, 4 research centers and 1 airport. The third campus, relatively smaller one, is
+Porsuk campus housing 2 vocational schools and 1 graduate school. All three campuses are
+located in easily accessible locations. Eskişehir is located 330 km from İstanbul, the largest city
+in Turkey and 230 km from Ankara, the Capital. There are high speed train services to both of
+the cities.
+2.5. The Number of the Faculties and Research Centers
+Anadolu University has 17 faculties (3 of which have open-education system), a state
+conservatory, 2 shools, 4 vocational schools, 9 graduate schools, 30 centers and 21 units. The
+organizational chart of the university is presented in Appendix-3.
+Anadolu University comprises 2111 academic members including 252 professors, 259
+associate professors, 498 assistant professors, 322 academics, 440 research assistants, 231
+instructors, 109 specialists, as of December 2014 (Appendix-4).
+In total, 2327 administrative personnel work at Anadolu University. 79.5% of them have
+government official status, 5.5% are permanent workers, 4.7% are contract employee and
+10.3% are temporary staff (Appendix-5.).
+2.6. Institutional Autonomy
+2.6.1. Institutional Autonomy in terms of Human Resources and Financial Resources
+Academic members are employed within the scope of 2547 Higher Education Law, in
+accordance with the Law 5434 and 5510. Our university can assign academic personnel by
+adding other criteria through publication if the related criteria that are stated in the applicable
+legislation are provided. Administrative personnel are employed based on centralized Public
+Personnel Selection Exam (KPSS). While assignment is done by the government, the university
+can determine the staff's title and position only.
+Not having financial autonomy is one of the fundamental financial constraints that
+universities have in Turkey. State funds which are provided by Finance Ministry are limited with
+small increases on annual basis. Universities cannot use the funds which are created by
+themselves without the permission of the Ministry.
+2.6.2. The Capacity of Determining Education, Research, and Innovation Profile
+The centralized structure of Turkish Higher Education system does not provide the
+universities with autonomy up to the mark except academic subjects. Universities can take
+relatively full advantage of their autonomy in educational areas. In response to the changing
+educational demands and needs, universities can offer new degree and non-degree programs,
+open new schools and centers - provided that they get the permission from the CoHE. Partnering
+with different industries in joint-research projects, companies started by the academic staff,
+collaborating with other universities inside and outside of Turkey are also examples of the use of
+their autonomy.
+The cooperation strategies with the sector and the development plan of Anadolu
+University are composed by taking our country's national and local objectives into account and
+by combining them with the fields in which our university is powerful.
+Four development axes are specified in the 10th Development Plan of the Ministry of
+Development including 2014-2018 period: "Qualified People, Strong Society", "Innovative
+Production, Stable Growth", "Liveable Places" and "Sustainable Environment and International
+Cooperation for Development".
+Furthermore, in the Local Development National Strategy, prepared by the Ministry of
+Development (2014-2023 Plan), Eskişehir is ranked among the cities whose focus is industrial
+growth. As a result of this, it is expected that University-Sector cooperation opportunities in
+Eskişehir and in the region will increase and it will have an important role in the increase of the
+number of employment and entrepreneurship thanks to the synergy arisen from coordinated
+works of universities and sector with joint projects. The prominent sectors in Eskişehir and in
+the region are aeronautic, rail systems, ceramics, white goods, and food sector.
+From 1958, when it was founded, to the beginning of the 2000s Anadolu University
+contributed to our country as an education university. After this period, there has been a
+dramatic increase in the scientific research studies. While there were 14 Project Coordinator
+researchers (Scientific Research Projects (BAP) + The Scientific and Technological Research
+Council of Turkey (TUBİTAK) in 2001, this number increased up to 125 in 2009. As a
+consequence of the search conferences in an attempt to develop the future plans and strategies
+of the university in 2010, the university created a new position in the senior management, "Vice
+Rector", responsible for the scientific research with the thought that "the research should be one
+of the priorities of the universities". In parallel with this perspective, the number of the academic
+members at the moment taking part in the scientific research as a project coordinator in
+Anadolu University reaches up to 440, which makes % 45 of the total academic members. In this
+sense, it is possible to state that Anadolu University has established in-house scientific research
+culture, and it has been improving continuously. Furthermore, Anadolu University encourages
+the academic members to establish companies in technology development zones and/or to take
+charge in the companies. Besides, the fact that Anadolu University climbed up to the 16th place
+from the 37th place compared to the previous year in 2013 National Entrepreneurship and
+Innovativeness Index, and it had the 13th place in 2014 are a sign of the change of the university
+on the path of "Entrepreneurship and Innovativeness." Anadolu University's organized industry-
+university collaboration began in 1998 with Ceramics Research Centre (SAM). SAM was
+incorporated in 2007 and with its 19 ceramics companies it had the name of SAM Inc., as the
+partnership of Anadolu University (with 50-50 sector-university portion rate). SAM Inc. still
+continues its activities in Eskişehir Technology Development Region as the university-sector
+joint research centre.
+Anadolu University established Anadolu University Ar-Ge (Research and Development
+R&D) and Innovation Coordination Unit (ARINKOM) on March 13, 2013 as a compatibilizer not
+only among the units in the university but also between the university and the industry. The unit
+was established to use the sources of the university effectively by making the works of R&D
+result-oriented, to make the information provided by the university turn into its maximum value
+by bringing the information and the industry together and to create a healthy and a sustainable
+university-industry collaboration by enabling human capital and infrastructure of the university
+to be used actively by the industry.
+On January 1, 2014, ARINKOM got the authority of Technology Transfer Office [TTO]
+which has been given to only 20 universities by TUBITAK up to now. ARINKOM-TTO offers
+service to the industry and the universities in nearby cities (Eskişehir, Kütahya, Afyon and
+Bilecik).
+ARINKOM-TTO gives support and service especially in the fields of aviation, defence,
+material-ceramics, animation, pharmaceuticals-pharmacy, bio-technology, nano-technology, rail
+systems, environment and energy and consumer durables. These fields are updated dynamically
+by taking the country's priorities, sector demands and the prominent fields of our university into
+consideration. Besides, through ANATEK Technology Transfer Industry and Trade Inc. (ANATEK
+Inc.) established in Eskişehir Technology Development Region on 09 May 2013, a university-
+industry collaboration canal was added to the system to enable instructors to work on project
+basis with industry without establishing a company. Especially Anadolu University
+Entrepreneurship and Innovation System (AUGİS) which will be supported by ARINKOM-TTO
+structure and in which the pre-incubation (ANAÇ), incubation (Anadolu KOSGEB- Technology
+Development Centre) and Anadolu Teknopark are situated altogether is one of the most
+professional entrepreneurship and innovation systems among universities in Turkey.
+Anadolu Technology Research Park (ATAP) Corporation is the executive company of
+Eskişehir Technology Development District (ETGB). ARINKOM and ATAP Inc. collaborate to
+enable ARINKOM to get in touch with companies within the scope of ETGB and conduct TTO
+activities concerning these. Furthermore, under the coordination of ARINKOM, ARINKOM and
+ATAP Inc. work together to enable the ideas at the phase of incorporation benefit from the
+privileges of technology development regions and carry on business there.
+Anadolu University Project Unit was established in order to generate the project culture
+and to increase the number and quality of the projects supported by different sources
+(Commission for Scientific Projects (BAP), TUBITAK, European Union, Development Agency
+(BEBKA), etc.). The unit has made significant contributions especially to the increase in the
+number and quality of the BAP projects and the development of the project culture within the
+body of the university so far. While performing all these works and studies, the project unit
+gained experience especially on studies that could be conducted in instructors' field of studies
+along with the sectors. With these experiences gained, ARINKOM and project unit has made BAP
+funded projects turn into projects funded by national and international sources and /or projects
+aimed at the needs of the sector. Besides, ARINKOM supports the project unit on the subject of
+intellectual and industrial property rights of the results of the BAP projects.
+Anadolu University Turkish Patent Institute (TPE) Information and Documentation Unit was
+established to raise the awareness of researchers at Anadolu University and in the region on the
+issue of intellectual and industrial property rights, with the support of Turkish Patent Institute
+and the education materials that the unit prepared.
+Anadolu University Entrepreneurship Education and Research Unit (AÜGEB) is a unit which
+raises awareness in entrepreneurship and provides educational activities on this subject for
+Anadolu University students, instructors and in its region. All the activities that this unit has
+conducted and all the relations it has established since it was founded enable the university gain
+experience in noticing the deficiencies in education of entrepreneurship and how to correct
+these deficiencies.
+Besides these units, faculties at the university and research centres and laboratories such
+as Anadolu University Advanced Technologies Research and Application Centre and Anadolu
+University Plant, Drug and Research Centre are also the units that contribute to TTO experience
+of Anadolu University with both in-house and external project-based research and university-
+sector collaboration activities.
+In the setting ARINKOM provides, the units contribute to the TTO activities in the
+university, support students, instructors and the sector to create value by working together in a
+synchronized way. At this point, it is important for Anadolu University to have instruments that
+enable itself to start university-sector collaboration step by step. In this context, the 'project-
+based internship' becomes prominent as one of the important collaboration activities of Anadolu
+University with the sector.
+Project-Based Internship Programme aims to develop solutions for the anticipated
+problems in accordance with the needs of the sector and provide interns whose studentship still
+continues with the experience related to business life before graduation. For the projects to be
+conducted under this programme in the direction of the needs of the sector, students from all
+departments in Anadolu University can be chosen as interns. Instructors as academic advisors
+and representatives from the sectors as industrial advisors guide interns during the whole
+process. In addition to this, seniors' graduation projects (theses), master theses and doctoral
+dissertations are conducted on the subjects that interest industry and in a similar structure
+(student-academic and industrial advisor) within the scope of Education-Research Collaboration
+Programme.
+The coordination of regional partners and their working together towards the same goal is
+of utmost importance in order to carry out university-industry collaboration activities and
+succeed in these. Anadolu University is in contact with non-governmental organizations (NGOs)
+representing the industry in the region by realising this necessity.
+Activities which will be conducted on TTO activities have been planned in detail among
+ARINKOM TTO, Eskişehir Industry Chamber and ATAP Inc. and Executive Company of Eskişehir
+Technology Development Region. According to these protocols, the needs assessment and
+evaluation surveys are conducted in companies within the scope of the chamber and in
+Technology Development Region respectively through the joint studies conducted by ARINKOM-
+TTO with Eskişehir Industry Chamber and ATAP Inc. once in a year separately. After these
+evaluations, in order to determine the activity schedule of the next year, parties come together
+once in a year and create a joint activity schedule calendar. Furthermore, relations with three
+business groupings (Eskişehir, Bilecik, Kütahya Business Grouping Association, Eskişehir
+Business Grouping Association, Eskişehir Rail Systems Business Grouping Association)
+established in the areas which have priority for both the region and Anadolu University and also
+the areas where Anadolu University took active part in the process of establishment, still
+continue and a consensus has been reached on the issue of sharing Anadolu University's R&D
+project suggestions with these business groups and exchanging information on the evaluation of
+projects and implementation on the subjects agreed.
+2.6.3. The Capacity of Determining the Administrative Structure
+Anadolu University is structured in accordance with the administrative structure
+determined for state universities within the scope of Higher Education Law no 2547. Rector is
+responsible for the management of the University and chairs the Senate and the Executive
+Board. The Senate functions as policy and decision making organ in all academic and
+administrative matters. In Anadolu University, the Senate consists of the Rector, 5 vice-rectors,
+17 faculty deans, 17 representatives elected by faculty boards of each faculty, 3 school directors,
+4 vocational school directors, 9 graduate school directors, the representative of research
+assistants and the president of the Student Council. The Senate meets at the beginning and at the
+end of each semester or at the call of the Rector when needed.
+The University Executive Board is the highest decision making organ in the university
+administration. The Board consists of the Rector as the president of the board, 17 faculty deans
+and 3 professors elected by the Senate. In Anadolu University, vice rectors, directors of schools,
+vocational and graduate schools are also invited to attend the board meetings, but without
+voting rights. The University Executive Board generally meets every week throughout the year.
+The organization chart of the University is given in Appendix 3. The counterpart of the
+Senate in faculties is the Faculty Board, and of the University Executive Board is the Faculty
+Executive Board. The Faculty Board consists of the dean as the president of the board, the
+department heads and 3 professor representatives, 2 associate professor representatives, 1
+assistant professor representative, 1 research assistant representative and 1 student
+representative. The Faculty Executive Board consists of the dean, 3 professors, 2 associate
+professors and 1 assistant professor elected by the faculty board. Organization chart of the
+faculties is given in Appendix 6.
+A parallel administrative structure is present in the garduate schools. The School Board
+consists of the director of the school, 2 vice-directors and department heads. The Graduate
+School Executive Board consists of the director of the school, 2 vice-directors and 3 academic
+staff elected by the graduate school board. The research centres have the director, vice-
+directors, the Executive Board and the Advisory Board. The University Secretary General is
+responsible for all administrative units and there are Faculty Secretary Generals responsible for
+their administrative staff.
+Majority of the operational activities of the University are automated. The University runs
+automated information systems on student affairs, human resources, accrual and accounting,
+revolving funds, library and distance education bureau management.
+2.7. The National Quality Assurance System
+Bologna Process which aims to realize the idea of a comparable, competitive, transparent
+European Higher Education District officially started with the declaration of Bologna in 1999.
+Turkey participated in this process in 2001.
+Anadolu University, chosen as one of the pilot universities for Turkey Higher Education
+Proficiencies Framework study which was started for national proficiencies to be developed in
+the Bologna process, completed these studies immediately and started to implement the field
+proficiencies alligned with the learning outcomes. The Council of Higher Education (CoHE) sent
+an appreciation certificate of achievement to Anadolu University for completing the piloting
+process successfully (Appendix 7). In Anadolu University, studies on the Bologna Process
+started in 2003 and has continued regularly since then, and all regulations foreseen to be
+realized in the Bologna Process have been put into practise and mechanisms have been created
+to control these practises. On the issue of academic degree which is one of the priorities of the
+Bologna Process, the process of transition between degrees has been completed and the system
+has been made easily understandable and applicable. Students are informed clearly about their
+right to reach an upper degree after graduation.
+3. MAIN REPORT
+3.1. Vision, Mission, and Strategic Objectives
+3.1.1. Vision Statement
+The vision of Anadolu University is,
+ "To become a life-long learning oriented world university."
+3.1.2. Mission Statement
+The mission of Anadolu University is to,
+ increase the life quality of people in the city, the region, the country and the World,
+ contribute to the accumulation of universal information and culture through
+education,
+ research and projects in the fields of science, technology, arts and sports.
+ offer every individual at any age authentic and qualified distance and on-campus
+ education opportunities.
+ produce creative and innovative solutions by anticipating social needs.
+3.1.3. Core Values
+The core values of Anadolu University are:
+ Transparency
+ Accountability
+ Equity
+ Human centeredness
+ Innovation
+ Creativity
+ Reliability
+ Perfection
+ Universality
+3.1.4. Strategic Objectives
+Objective 1. Improving the educational-instructional activities constantly.
+Objective 2. Increasing the quality and quantity of research activities.
+Objective 3. Increasing the effectiveness and ensuring the sustainability of community
+service practices.
+Objective 4. Increasing the effectiveness of the Open Education system.
+Objective 5. Ensuring the effectiveness, efficiency, and sustainability of the management
+system.
+3.2. Governance and Activities
+The administration and organization of Anadolu University are determined according to
+the Law no 2547. The administration consists of the Rector, the Senate and the Executive Board.
+Rector: In state universities and advanced technology institutes, the Rector is appointed
+by the President, after YOK evaluation process, among the nominees elected by the university
+academicians having the professor title who meet at the call of the Rector. The Rector's term of
+office is four years and a person may hold it for at most two consecutive terms. The Rector
+represents the legal entity of the University. The Rector appoints three university professors at
+most as vice rectors to help in his studies. However, in Anadolu University, due to the distance
+education offered, five professors are assigned as vice rectors. The Vice rectors are responsible
+for teaching and education, international relations, distance education system, administration
+and financing, research and university staff. The Rector is authorized and responsible for the
+rational use and development of the teaching capacity of the university and affiliated units,
+providing students with necessary social services, taking security precautions when needed,
+teaching and education, planning and conducting scientific research and publication activities in
+accordance with the state development plan, principles and objectives, scientific and
+administrative supervision and transferring these duties to subordinate units as well as
+following and controlling them and getting results.
+The university administration is supported by various commissions and committees such
+as the Board of Academic Assessment and Quality Improvement (ANADEK), the Bologna
+Coordination Commission, the Commission for Scientific Research Projects (BAP) and the
+Permanent Regulations Commission.
+For administrative management, a general secretary, two deputy general secretaries,
+department heads, directors, advisors, a law counsellor, experts, officers subject to Law no. 657
+on civil servants and other officers are present. Besides, in every faculty there is a faculty
+secretary working under the dean at the top of the administrative unit and graduate school or
+school secretary are present in the graduate schools and schools.
+3.3. Quality Assessment Policies
+The university's quality policies at various areas are summarized below:
+Education Policies:
+ To offer education programmes conforming to the standards of the international
+ programmes,
+ To develop cooperation for effective learning and to offer various learning
+environments.
+Research Policies:
+ To conduct research in cooperation with the sector,
+ To conduct scientific research with high quality and accretion value,
+ To award success.
+Administration Policies:
+ To be student-oriented,
+ To enrich our partners with our activities,
+ To communicate effectively and to be open to participation, creativity and innovation,
+ To improve our services constantly.
+Units and Departments' Ownership of the Process Policies:
+ To base all studies on the strategic plan (to head for the same aims),
+ To know, understand and internalize the mission, vision, core values and strategic
+ objectives of the institution,
+ To ensure participation.
+3.3.1. Institutional Quality Assurance Policies
+In the year 2005, all the work and proposals within the Bologna Process initiated to secure
+and to improve the quality of higher education and to create a standardized quality culture in
+higher education were published in the report entitled as "The Quality Assurance Principles and
+Standards in European Higher Education", prepared by European Association for Quality
+Assurance in Higher Education (ENQA). In the report, special emphasis was put on the issues
+that all higher education institutions should have quality assurance policies; and that they
+should gather and analyze the data regarding teaching and research activities and use it within
+the aim of strategic management; and that they should publish both the quantitative and
+qualitative actual data in an objective and transparent way and then submit it to the surveillance
+of both the public and the internal and external stakeholder organizations. In 2005, with the aim
+of meeting the requirements of Bologna Process, Anadolu University started to establish its own
+quality assurance policies and systems.
+In accordance with the Academic Evaluation and Quality Improvement Regulations of The
+Higher Education Board passed on 20 September 2005, Interuniverstiy Council founded the
+Higher Education Academic Evaluation and Quality Improvment Comission (YÖDEK) on 30
+September 2005. Such developments have been a breakthrough accellerating the continouous
+improvement efforts of Anadolu University. In 2005 ANADEK was founded. In addition to this,
+on 01 January 2005, implementing strategic management policies in public institutions was
+made mandatory to increase the efficiency of Public Finance Management and Control Law
+based on the strategic planning. Since 2006, in an effort to make use of the resources in an
+efficient, ecomonic, and productive way within the frame of financial transparency and
+accountability, Anadolu University has been annually publishing adminisrative activity and
+financial situation report.
+The work Anadolu Universiy has carried out so far within the frame of present Quality
+Assurance Policies are listed below:
+ A strategic plan was prepared. The application of the basic priorities for achievement
+and improvement was evaluated by the help of the Activity Report and Performance
+Programme. The actual data was released to the public in a transparent way via the
+Internet.
+ Competence and course-learning outcomes of all the programmes were portrayed
+and published by means of Anadolu Information Package (ABP).
+ Some faculties completed their accreditation and evaluation process by the
+independent institutions regarding thier education-instruction processes, and
+academic research activities were supported by the senior management.
+ External evaluation support has been obtained under the scope of the Institutional
+Evaluation Programme of European Universities Association (EUA).
+ Within the aim of getting Diploma Supplement label, and European Credit Transfer
+System (ECTS) label, the requirements were followed and the labels were obtained.
+ Internal Control System was established and the process has tried to be made
+functional with a great effort.
+ The Unit Risk Committees and The Risk Supreme Board were constituted in order to
+detect and evaluate the risks and to take actions against these risks.
+3.3.2. Institutional Evaluation Regarding the Programme, Department and Research
+Since 2000, students' opinions about the instructors have been gathered with "The Course
+Evaluation Questionnaire". The results of the questionnaires are available to the instructors in
+order to encourage self-improvement. Depending on the questionnaire results, the average
+scores for each instructor are collected and taken into consideration in the contract renewal and
+rewarding processes to a certain extent. Furthermore, the evaluation criteria of Anadolu
+University is also used in the academic promotion of the academicians besides the terms laid
+down by the law.
+Students' opinions on education, management services, facilities, social and cultural
+activies are evaluated with the help of "The Student Opinion Questionnaire". The results are
+consulted during necessary amendments.
+Within the frame of quality improvement efforts of the accredited or under-accreditation
+units, external stakeholders' views are used as feedback during the improvement of outcome-
+based education programmes.
+Students' academic performances are being monitored by Registrar's Office. Annual data is
+gathered regularly ever year and is used to evalute sutudents' performances.
+At regular intervals, by organizing meetings with student clubs, students' views are
+consulted in the solutions of current problems. Student clubs encourage the students to become
+more efficient and sociable.
+Psychological Guidance and Counseling Service determines the students' socio-
+demographic features, problems and expectations. In the light of the obtained results,
+necessary improvements are made by the Rectorship. Besides the workshops concerning
+personal and social developments, psychological guidance and counseling services are provided
+on individual and group levels by Psychological Guaidance and Counseling Service.
+For a more efficent management of research and development activities, one of the vice-
+rectors has been assigned for this field. Furthermore, a Research and Development and
+Innovation Coordination Centre (ARİNKOM) was established under this vice-rector's
+responsibility in order to direct the instructors' research, innovation and etrepreneurship
+facilities, to create, prepare and report research projects and to implement them.
+Anadolu University monitors the R&D evaluation process through some indicators such as
+"projects", "presentation and participation in academic conferences, seminars and symposiums",
+"articles published in journals and conference proceedings", "the number of books and post-
+graduate thesis". These indicators are used in the promotion process of academic staff and
+presented to Council of Higher Education (CoHE) in annual reports.
+Instructors are supported in their attendance to national and international conferences.
+The Project Unit makes the required arrangements, pursuing the national and international
+priorities and the developments in research. Scientific research projects submitted to the
+Project Unit are evaluated according to the referee views within the related Project Sub-
+Committee of the departments (Social Sciences, Faculty of Science, Health Science, etc.).
+Scientific Ethics Committee is formed so as to remind the researchers and students of the
+universally-accepted rules regarding scientific ethics.
+3.3.3. Institutional Application of European Norms Regarding Institutional Quality
+Assurance
+3.3.3.1. Quality Assurance Policies and Procedures
+The university bases the evaluation of quality applications on SWOT analysis. The scope
+and content of SWOT analysis is suitable for the self-evaluation criteria set by the Committee of
+Higher Education Academic Evaluation and Quality Improvement and it also corresposnds with
+The Quality Assurance Standards and Application Principles for Higher Education Institutions in
+the European Higher Education area.
+As an expansion of Bologna Process, ECTS creditation system is used in all units of the
+university and all the graduate students are provided with "Diploma Supplement". Having been
+revised in the 2007-2008 academic year, ECTS Credits were revised once more in the light of the
+opinions obtained from the questionnaires on the courses students took in the 2013-2014
+academic year.
+As requirement of quality process, Anadolu University has been promoting the
+accrediation of all units and programmes on both national and international level. In this
+context, while the Faculty of Engineering, Faculty of Science, Faculty of Letters, Faculty of
+Pharmacy, Faculty of Architecture and Design-Department of Architecture and 28 two-year
+degree programmes of Open Education Faculty have completed accreditation process, some
+programmes offered by the Open Education Faculty, School of Foreign Languages and Faculty of
+Fine Arts are still in the process of accreditation.
+3.3.3.2. Revising and Updating Programmes/Levels
+The task of the revision of the programme structures and curricula is assigned to the
+related units by the university management. On a regular basis, department /unit committees
+revise and update their programmes considering the internal and external stakeholders' views.
+The process of opening up a new programme starts with the submission of a file, prepared
+by a unit and approved by the related committee, to the Rectorate. This file containing
+information such as the justification of these new programmes, national and international
+examples, courses and course contents, benefits of the programme, infrasturcture of the
+department in terms of lecturers, and student approval terms is evaluated by the University
+Senate. When the Senate approves the decision, it is then directed to the Higher Education
+Senate to be confirmed. It is the Committee of Higher Education that is to reach a definitive
+judgement about opening up a new programme.
+3.3.3.3. Student Assessment
+Student achievement is assessed by various methods such as mid-term examinations, final
+examinations, assignments, tasks, projects and hands-on practices. Information about this
+process is announced to the students via web-based Anadolu Informantion Package (ABP). The
+syllabus is also included in ABP. Further information on Introduction, Content, Learning
+Outcomes, Teaching Methods and Strategies, Programme Outcome Support and Testing and
+Assessment is included in ABP as well.
+3.3.3.4 Academic Staff Competence
+The recruitment of new academic staff is carried out based on the "Anadolu University
+Academic Staff Recruitment Policy and Evaluation Standars". Further criteria may also be added
+by the related unit. On the other hand, the competence of the candidate in lecturing is not
+examined before the employement process. In addition, "Course Evaluation Survey" is used in
+order to evaluate the lecturers' performance in lecturing. When the result of this survey is equal
+to or higher than 3,5 out of 5, %50 more of the lecturing grade is taken into account in academic
+promotion.
+In the observation of the competence of the academic staff, the following tools are also
+employed:
+ Accreditaion processes,
+ Student feedback (course evaluation surveys, undergragute or graduate student surveys),
+ Promotion/ recruition criteria,
+ Performance-based rewarding system,
+ Support for national or inetrnational academic activities,
+ Project supports,
+ Publication supports.
+3.3.3.5 Learning Resources and Student Support
+Being one of the most important units of Anadolu University, and ranking among the top
+five libraries in the country, Anadolu University Library is open seven days of the week and
+twenty four hours of the day. Located on an area of 12.330 metres square, the library has 25
+indiviual and 10 shared study rooms. Currently, the library owns 296.255 books and every year
+nearly 10.000 books are added to this number. There are 160.000 e-books, 54.332 e-journals, 70
+database, nearly 1000 active journal subscribtions and besides all these, apart from the books,
+the library also has a great number of materails (Records, VCDs, DVDs, CD-ROMs, tape
+recordings, etc.) from which both the students and researchers can benefit. In addition to all
+these facilities, students can have access to e-books, e-journals, master's and doctorate thesis
+from any point in the campus. The library also provides visually-impaired students with 466
+audio textbooks, 47 visual books and a printer and scanner that turns the text into Braille
+alphabet. The library also provides tablets to the students and academicians for their use within
+the library premises.
+Besides the library facilities, wireless internet access is available on campus, which
+students can make use of during their education and research. Additionally, in every unit,
+students can benefit from computers with internet access in the computer labs.
+An academic advisor is assigned to help each student with academic issues when they
+register any programme at Anadolu University. Students can get support from Psychological
+Guidance and Counseling Services Centre from specialized expert psychologists not only with
+their individual developments and problems but also with the social issues through individual or
+group meetings without any charge.
+Anadolu University students are provided with opportunites to pursue their interests or
+broaden their horizons through various cultural, social, scientific and artistic activities in 52
+student clubs. Student clubs, social projects, and intership opportunities help the students
+enhance their education and equip them with various skills and the advantage of getting into
+the bussiness world a few steps ahead their peers when they graduate. With the part-time
+student-employment system enabling the students to work in one of the units of the university,
+students are given the opportunity of putting their theoretical knowledge into practice, in
+addition to getting the chance of having working experience and earning some money. Students
+are also given financial support to take part in several activities such as academic confrences,
+symposiums, workshops, and panels. Additionally, within the scope of the Cultural Activities
+course, students are provided with the opportunity of improving themselves on a broader level
+by participating in various academic and cultural activities.
+In Anadolu University, Unit for Students with Disabilities supports undergraduate
+students with disabilities. In order to make disabled students' life easier and ensure their full
+participation into education this unit takes precations and implements necessary adjudgements
+by detecting their needs and supplying necessary equipments from the first moment of
+registration to Anadolu University. The Unit also offers a wide range of support including
+individualized teaching practices, course and exam regulations, and social and pscyhological
+help in corporation with the other units.
+At the end of each academic year, projects prepared by the students and suported by the
+University are presented in project fairs where the owners of the projects meet bussinesmen
+and intresting projects are supported by them.
+All the services and support offered to students are constantly revised and developed
+taking students' opinions into consideration.
+In terms of the number of exhange students and full-time international students,
+Anadolu University ranks among the top and maintains its preferability high because of the
+opportunities offered to students. The number of international students makes it one of the
+leading universities in Turkey. In our university, there are 1064 full-time international students
+from 108 different countries, and every year nearly 120 Erasmus students get educated.
+There is also a Law Clinic where foreigners and exhange students can get first-hand
+services in case of any violation of their rights. In this clinic, information about the law system in
+Turkey and about their rights and responsibilities are provided to the exchange students and
+foreigners with the corporation of Faculty of Law and Internatonal Relations Unit. In addition to
+this, at the beginning of the semester, students are also given flyers explaining Turkish Law in 5
+different languages including Turkish, English, German, French, and Italian.
+Exhange students and candidates are also provided with psychological support in case of
+any possible difficulties and psychological problems students might experience by the
+Psychological Guaidance and Counseling Service.
+As in other universities, accomodation for exhange students is a problem for Anadolu
+University, however; some precautions have been taken in order to descrease the adverse
+effects of this problem for the students. In this respect, exchange students are given the
+opportunity of free accomodation during the first five days of their stay at one of the hostels on
+the campus until they find an appropriate place to stay.
+Furthermore, with the aim of finding a constructive solution to the accomodation
+problem, International Relations Unit matches national and exhange students and encourages
+them to live together, thereby contributing to inter-cultural learning and communication
+opportunities for both parts.
+Throghout the year, various tours are organized to significant places and historical
+landmarks of Turkey. Most important of all is the tour to St. Antoine Church which gives the
+Christian students the chance to attend the Christmas rite.
+During the academic years 2013-2014 and 2014-2015, the total number of students
+coming with Erasmus exhange programme was 295, and 43 for Mevlana exchange programme
+which was initiated in the academic year 2013-2014.
+While academic recognition is of great importance in terms of increasing the number of
+the students going abroad and assuring the quality of the actvities carried out, it is not adaquate
+on its own; for this reason, several other studies are carried out continuously.
+Regular meetings conducted to inform both the students and the staff about the
+exchange programmes help these programmes to be kept on the agenda and help the students
+and the staff to get accurate and current information.
+Carefully planned orientation programmes help the students to be prepared for the
+bureaucratic process, culture shock, and every single stage of the exchange programme.
+While 974 students went abroad from Anadolu University with Erasmus Exchange
+program during the academic years 2013-2014 and 2014-2015, the figure for Mevlana exchange
+programme was 23 during the same period of time.
+3.3.3.6. Information Systems
+Anadolu University carries out the administration of all the activities effectively by
+analysing the information gathered from different sources through its various units. The
+Information is gathered through;
+1) University Information System,
+2) Unit Activity Reports and Quality, Processes, Results (QPR) Portal,
+3) Surveys of Current Students and Newly Graduates,
+4) Statistics of Alumni Association.
+University Information System obtains information related to students' grades,
+absenteeism, and behavioural development. This information is evaluated by students' advisors
+and the administration of the relevant unit and used while giving one-to-one academic
+consultancy service during re-registration periods. In this way, students' personal development
+is monitored and also the relevant unit administration can see the general success rates of the
+programmes. Students present their views regarding the academician teaching the course by
+using the same system. The relevant academician and unit administration gauge the teaching
+quality of the course, the effectiveness of the academician and the satisfaction of students
+regarding the programme by evaluating these data bases. Besides, the data gathered through
+'Student Information Form' that students fill out during re-registration periods and update when
+needed is evaluated by the relevant unit administration and provide information about student
+profile.
+By means of Unit Activity Reports and QPR Portal, all units of the university can enter their
+infrastructure information (classrooms, laboratories, offices, etc.), academic activities (the
+number of students/instructors/personnel, domestic and international mobility of
+students/instructors, publications, projects, activities conducted, awards, etc.), financial
+information (budget mobility, mobile supply transactions, etc.), and administrative activities
+into the system. Thus, all the information about the university is collected in the same
+environment. This information is evaluated by relevant units and the senior management of the
+University. According to the obtained results, the University's administrative, financial and
+academic improvement activities are given direction. The actual performance indicators of the
+university, educational materials and their costs are determined. The information collected and
+evaluated here is used in the preparation of the University's Strategic Plan.
+Surveys are made about undergraduate and recently graduate students, the relevant
+department's physical structure, its equipment, its access to the library and to the learning
+materials, its student-academic/administrative staff relations, along with academic and social
+activities about the program, and students' opinions on whether they gain professional
+competence in their field. Also, alumni contact information is collected. All this information is
+evaluated by the relevant departments and the senior management of the University. The
+information is subsequently used to determine students' satisfaction levels and to develop
+learning materials of the units.
+Information about the working life of graduates achieved through the Alumni Association
+is gathered in order to determine the yearly accession rate.
+3.3.3.7. Public Information
+Institutional communication activities are carried out by the Media Center and TV
+Production Center, which are subordinate to Anadolu University Rector Advisory, in charge of
+communication. In the body of Media Center, Newsroom Coordinator, Newspaper and Magazine
+Coordinator, Social Media Coordinator and Director of Press and Public Relations units serve.
+All news-gathering and writing operations of the university are carried out in the Central News
+Coordination Unit in order to be shared with the local press by means of the agency system and
+the news site of Anadolu University, which is being broadcast by the name of "e-newspaper".
+Special reports are produced in order to be used in publications prepared by the Newspaper and
+Magazine Coordinator and in order to be shared with the local and national press by the Director
+of Press and Public Relations. Newspaper and Magazine Coordinator operates the coordination
+of the processes of selecting, designing and printing of the content of Anadolu Newspaper,
+published 10.000 every 3 weeks, and Anadolu University Magazine, published 15.000 every six
+months.
+The processes of managing University's accounts in all social media platforms, preparing
+and publishing the content, ensuring the interaction with users, monitoring, evaluation and
+reporting of all the content related to the institution on the Internet media are managed by the
+Social Media Coordinator. Apart from that, an e-Bulletin, whose content consists of news and
+events of the university is also prepared and shared within the public institutions weekly.
+The organizational processes of all kinds of events organized by Anadolu University and
+the invitation/poster design reflecting the institution identity as well as their distribution and
+announcements of these events are carried out by the Press and Public Relations Office.
+Prepared by the Newspaper and Magazine Coordinator, Anadolu Newspaper is distributed to the
+designated points in the campus and city, Anadolu University Journal is distributed to the
+designated points determined at the local and national level and e-Bulletin prepared by the
+Social Media Coordinator is distributed via e-mail.
+TV Production Center TRT School Coordinator prepares course programs for the students
+of the Open Education Faculty and the university faculty members are involved in these
+programs. Along with the courses, other programs on culture, arts and actual content are
+prepared our university's experience and abilities are represented on a national channel.
+On the web page of the University, Public Service Standards, Strategic Plan, Self-
+Assessment Reports and Annual Reports are published. Also, via Anadolu Information Package
+(ABP; http://abp.anadolu.edu.tr) prepared in the scope of the Bologna Process, institutional
+information, information for students and detailed information about programs are shared with
+the students and the public.
+3.3.4. The Effect of Collected Data on the Activities
+The data collected from different units and different sources of the University are used in
+order to improve the current practices in the field of education, research and social services, the
+University's three basic functions, and to develop new strategies. For Example; "Course
+Evaluation Questionnaire ", collected from students at the end of each academic term, "Student
+Opinion Survey", "ECTS surveys " made periodically related to ECTS, " SWOT analysis" data, and
+"Unit Annual Reports ", collected at the end of each year on the basis of the University's Strategic
+Plan are prepared.
+3.3.5. The Relationship between Strategic Choices and Institutional Activities
+Activities, which are being/will be carried out in relation to the strategic choices
+determined by the University and also announced to all stakeholders via the 2014-2018
+Strategic Plan are summarized below:
+With regard to the continuous improvement of educational activities;
+• Educational programs and course contents are updated.
+• The effectiveness of the internship applications is increased.
+• The effectiveness of the academic consultancy activities is increased.
+• The effectiveness of both national/international exchange programs is increased.
+• The number of national/international joint undergraduate and postgraduate
+programs/courses is increased.
+• The number of protocols signed with other national/international educational
+institutions is increased.
+• Cooperations of University Student Clubs with similar clubs at
+national/international universities/organizations are supported.
+• The number of graduate studies is increased.,
+• The number of graduate level interdisciplinary programs is increased.
+• Activities to increase both national/international recognition and preference of the
+University are carried out.
+• The number of the programs initiating external evaluation/accreditation process is
+increased.
+• Interaction with the alumni is increased.
+• Foreign language proficiency level of the undergraduate level students is being
+improved.
+With regard to improving the education opportunities of the units;
+• Physical conditions of the units such as building, laboratories, classrooms, offices
+and equipment are provided in sufficient number and in full capacity, and are
+constantly improved.
+• Educational activities are made sustainable.
+With regard to increasing the efficiency of the information and communication
+technology in education system;
+• The number of electronic resources which can be accessed from the library is
+increased; their use and access are made widespread.
+• The effectiveness of information systems is increased.
+• Educational resources are moved to the virtual environment, and information is
+kept up-to-date.
+• The number of certificate programs/ events offered in any environment is
+increased.
+With regard to improving the living conditions of all the campuses;
+• The number of social facilities and living areas on the campuses is increased.
+• Inter- campus and on-campus transportation facilities are enhanced.
+• Disabled-Free living conditions are improved.
+With regard to increasing the quantity and quality of the research activities;
+• The continuity of the use of the infrastructure such as laboratory, workshop, studio
+and library, and so on are ensured.
+• A database supplied for the infrastructure/research facilities is being
+created/supplied/updated.
+• Infrastructure projects related to the centers of excellence are being developed and
+applied.
+With regard to giving priority to interdisciplinary projects whose results serve the
+community;
+• The number of interdisciplinary projects whose results serve the community is
+increased.
+• Interdisciplinary research opportunities are increased.
+With regard to improving the university-industry collaboration;
+• R&D and ARINKOM 's functionality is increased.
+• The sustainability of the University cooperation with public and private sector is
+provided.
+• Consultancy services for public and industrial organizations are provided.
+• Projects funded by external sources are produced and applied.
+With regard to encouraging the enhancement of research activities;
+• Preparation of scientific research projects is encouraged.
+• Publications are improved in quantity and quality.
+• The number of national/international scientific meetings participated and/or
+organized by teaching staff is increased.
+With regard to increasing the quantity and quality of cultural, arts and sports
+activities;
+• Academic units of the University are encouraged to organize cultural, arts and sports
+activities.
+• Faculty members' participation in cultural, arts and sports activities at
+national/international level is encouraged.
+• Effective use of cultural, arts and sports facilities is encouraged.
+With regard to improving the effectiveness and sustainability of community service
+activities;
+• Activities are done to share the University's focus and priority on "Lifelong Learning"
+with all social sectors.
+• The number of University activities for the community is increased.
+• The effectiveness of Community Services course is increased.
+• University is provided to take place in the national and international media
+effectively.
+• Studies are done to measure the community's perception of the University.
+With regard to enhancing the cooperation with non-governmental community service
+organizations;
+• Activities are carried out to ensure that the University works together with civil
+society organizations as stakeholders in various social responsibility projects.
+With regard to providing a more effective way to convey all national/ international
+community service-oriented events such as cultural, arts, sports and scientific activities to
+all the segments of the society;
+• In University's cultural, arts, sports and scientific activities, a particular part of the
+activity area is allocated for the disadvantaged.
+• Some of the University's cultural, arts, sports and scientific eactivities, and so on are
+scheduled in the habitat of the disadvantaged sections of society (Nursing homes,
+Prisons, Child Protection Agency, Women's shelters, etc.)
+• Community service-oriented activities are encouraged.
+• Contributions are provided for the city and the region in social, cultural and
+economic areas.
+With regard to increasing the effectiveness of the Open Education system;
+• The quality of computer software and hardware infrastructure of the system is
+continuously improved.
+• The diversity of the programs is increased.
+• The production of new course materials, developing and updating the existing ones
+are provided.
+• The changes needed in the organizational structure of the units are made.
+• The programs' initiating to the accreditation process and its sustainability are
+provided.
+• Contributions to the legislative work for the operation of the system are provided.
+With regard to increasing the efficiency of communication and learning technologies
+in the Open Education system;
+• Research to give direction and to contribute to Open Education and its practices is
+done.
+• There is an ongoing effort for technological applications that can be utilized in Open
+Education.
+• Cooperation with the research and development institutions /organizations is made.
+• National / international scientific activities are held.
+• The functionality of the Open and Distance Education Research and Development
+Center is increased.
+With regard to ensuring the development and training of human resources for the
+Open Education system;
+• An application for the creation of Associate Professor Position has been made.
+• In face-to-face programs courses on open education practices are opened.
+• In the field of Distance Education, courses in the master's and doctoral programs in
+international cooperation are opened.
+• The establishment of the Open and Distance Learning National Excellence Center is
+being planned.
+With regard to doing studies on institutional reputation of the Open Education
+system;
+• Studies to improve the institutional perception of the units in the Open Education
+system are planned.
+• Activities to enhance the cooperation of the Open Education system with the alumni
+are planned.
+• Activities to increase the cooperation of the Open Education system with other
+external stakeholders are planned.
+With regard to the effectiveness, efficiency and sustainability of the management
+system;
+• Activities for occupational, social and cultural development of employees are
+increased.
+• In-service trainings for academic and administrative staff are organized.
+With regard to making attempts to make appropriate legislations for the unique
+structure of the university;
+• Contributions to scientific research, financial, personnel, and educational legislation
+studies are made.
+With regard to creating a quality management system that can be implemented in all
+units of the University;
+• The internal control system studies are speeded up.
+• Electronic Document Management System (EDMS) is being created.
+• Business processes and organizational structures are developed.
+With regard to increasing national and international recognition;
+• National and international interaction and collaboration with all stakeholders are
+increased.
+• Activities to ensure that international students choose Anadolu University in
+education and research are carried out.
+• Participation to academic/scientific exhibitions at the international level is ensured.
+3.4. Strategic Management and Capacity for Change
+3.4.1. The Level of Meeting External Demand
+Anadolu University is in constant change and development to meet education, research and
+community service requirements or demands at the local, national and international levels.
+Regarding the demands, threats and opportunities that may come from outside the
+university;
+a) Demands in the fields of distance education, research and development, and community
+services are made to our university. Those done to respond to these demands are
+summarized below:
+i) To meet the demands on education, certificate programs were opened, Open
+Education courses were provided for the students having their education in other
+universities, and in the last 5 years, 21 associate degree programs and 4 degree
+programs have been opened in the Open Education faculties. In addition, 23 e-
+certificate programs were opened in the Open Education System. 3 of these are the
+Western European e-certificate programs. 254 face-to-face programs were opened
+and/or updated. In the last five years, six new education, practice and research
+centers have been opened (Appendix 8).
+ii) As mentioned in Section 2.6.2 in detail, Anadolu University ARINKOM-TTO serves
+both the universities and industries in the region (Eskisehir, Kutahya, Istanbul and
+Afyon) in order to coordinate R&D and innovation activities within the university, to
+make results-oriented R&D activities so as to use resources efficiently within the
+university, and to create the highest level of knowledge conversion value at the
+university by bringing knowledge and industry together.
+iii) Also, ANATEK Technology Transfer Industry and Commerce Inc. established in
+Eskişehir Technology Development Zone was added to the system to ensure project-
+based work between instructors and the industry even without setting up a
+company.
+iv) Anadolu University Project Unit was established in order to create a project culture
+within the University and to increase the number and nature of the projects of
+Scientific Research Projects (BAP) Commission, supported by the university
+resources. So far with their work, this unit has especially contributed significantly to
+the increasing number and developing nature of the BAP projects in Anadolu
+University. As a result of this work to promote research activities, currently the
+number of faculty members carrying out a project has reached 440, which
+constitutes 45% of the total number of faculty members in Anadolu University.
+When the numbers of the projects conducted and completed between the years
+2009-2014 are examined, it is seen that the number of postgraduate thesis projects
+is 520, the number of general-purpose projects is 460, the number of infrastructure
+projects is 70, and the number of projects promoting publications and research is
+335.
+v) In terms of serving the society our university, performing an important
+breakthrough in recent years, has spread "Community Service Practice" lesson with
+the participation of all students. In this context, joint efforts are made with, social
+services, NGOs, hospitals, libraries. Our university has provided support in the
+"Eskişehir Capital of Cultural Heritage" project scope and has supported a number of
+permanent artwork to be created in Eskişehir. In addition, it offers social services
+with its different institutions in the context of "Special Education" which is one of
+the most powerful areas of our university. Individuals with hearing disabilities from
+infancy to adulthood are provided with educational services in the Education,
+Practice and Research Center for Children with Hearing Impairment. Individuals
+with speech and language disorders from infancy to adulthood are presented
+services in Education, Practice and Research Center for Individuals with Speech and
+Language Disorders. Service is given for children with developmental disabilities
+(autism, intellectual disabilities, Down syndrome and cerebral palsy) and for their
+families in Research Institute for Individuals with Disability; for students with
+hearing impairment in undergraduate and graduate levels in the Integrated Disabled
+School, gifted and for talented children in the recently opened Center for Gifted
+Education Research and Application.
+b) The rapid increase in the number of universities in recent years and the parallel increase
+in the quota and the legislation in some areas can be indicated as among one of the
+indicators of outside threats directed to our University. In spite of the related legislation,
+in the fields of education, research and community service, resource use on its own
+initiative is not possible. Nevertheless, efforts to take action on the threat, the works and
+construction activities of our University are ongoing in cooperation with state and
+private institutions.
+c) Turkey having a young population and growing demand for education is the opportunity
+of our University. In this regard, cooperating with other institutions (Universities, Higher
+Education and Ministries), our university has entered into a rapid development process
+in the face-to-face and open education. For Example; by signing protocols with Konya
+Karatay University and İzmir Yaşar University, face-to-face university students of related
+universities have been provided with the opportunity to take lessons from Open
+Education Faculty of our university. In addition, our all instructors are given the
+opportunity to participate in international conference, symposia and seminars at least
+once a year; and in national convention, symposia and seminars at least twice a year with
+the resources our university has created. This also gives our teaching staff the
+opportunity to improve themselves and increase the number of their publications.
+Eskişehir, where our university is established, has a superior image all over Turkey. This
+makes it demanded by students very much and also leads our student quota to be filled.
+3.4.2. Involvement of External Stakeholders in Strategic Management
+The University cannot engage in direct cooperation with its external stakeholders
+regarding the administrative and strategic issues. The basic reason for this is the university's
+being subject to special laws and regulations as a public institution. However, Anadolu
+University is committed to cooperate with the relevant institutions while making decisions
+associated with its external stakeholders.
+3.4.3. Extent of Autonomy
+Centralized structure of the Turkish Higher Education System does not provide the
+universities with the required level of autonomy except in academic issues.
+The university has attempted to take relatively full advantage of its autonomy in
+educational areas. In response to changing educational demands and needs, the University can
+offer new degree (associate/undergraduate/graduate) and non-degree programs, open new
+faculties and centers with the approval of the Senate. Partnering with various sectors in joint-
+research projects, establishments founded by academic staff and partnerships with other
+universities in national/international contexts can be ranked among the examples of the use of
+its autonomy.
+3.4.4. Changes to be Made Regarding the Institutional Objectives
+The following are among the objectives the University plans to develop or tries to reach
+in the next five-year period;
+• To institutionalize the culture of competence-based education,
+• To improve the units' opportunities related to education,
+• To increase the efficiency of information and communication technologies in the
+education system,
+• To improve living conditions in all campuses of the university,
+• To develop and use the infrastructure effectively,
+• To give priority to interdisciplinary projects and to projects that serve to community
+service
+• To develop university-industry collaboration,
+• To encourage the enhancement of research activities,
+• To improve the quantity and quality of cultural, arts and sports activities,
+• To promote activities for the purpose of community service, using communication
+facilities owned by the University and social media,
+• To increase cooperation with non-governmental organizations serving community,
+• To provide all segments of the community with service-oriented cultural, artistic,
+sports and scientific national and international events in a more effective way,
+• To ensure the sustainability of student-centered, flexible, accessible, and technology-
+based quality of Open Education System,
+• To increase the effectiveness of communication and learning technologies in the
+Open Education System,
+• To provide the training and development of human resources for Open Education
+System,
+• To work for the institutional reputation of the Open Education Systems,
+• To develop human resources practices,
+• To make attempts for legislation compliant with the original structure of the
+Anadolu University,
+• To establish a quality management system that can be implemented in all units of
+the university,
+• To increase national and international recognition.
+3.4.5 The Consistency among Mission, Objectives and Activities
+Anadolu University is implementing a new Strategic Plan covering years 2014-2018.
+Board of Academic Assessment and Quality Improvement is leading the work on the constitution
+and the implementation of the Strategic Plan. Compliance between the strategic objectives of the
+University and objectives, activities of the units is ensured through sub-committees in the
+academic units. Monitoring and improving activities are conducted in a participatory manner.
+Annual Unit Activity Reports indicate the path covered in the implementation of the Strategic
+Plan.
+3.4.6. The Role of Quality Monitoring and Quality Management Processes
+In the light of regular feedback from internal and external stakeholders, the university
+has continuously been updating and improving future plans and activities.
+With regard to Administration, primarily the "Regulation for the Internal Control
+Monitoring and Steering Committee Working Principles" was prepared in order to identify risks
+that may be encountered during any activity and practices taking place in the University and
+determine the necessary precautions to be taken; and then "Risk Supreme Council " and "Unit
+Risk Board" were formed for the same aim.
+In the educational context, one of the main goals of the university is to increase the
+number of accredited programs/units. In this context, accredited units are regularly monitored
+and evaluated by the relevant accreditation institutions.
+Anadolu University has collaborated with external independent auditors on financial
+processes. For Example, our university was audited financially by Ernst & Young auditing
+company in 2013.
+Faculty of Engineering was awarded the Turkey Excellence Awards for its efforts in
+implementing the EFQM Excellence Model and received the EFQM European five-star
+certification in 2014.
+Anadolu University, besides all of these, has been working to make the Quality Assurance
+System steadier by receiving external evaluation from the internationally respected institutions
+such as European University Association (EUA).
+3.5. Anadolu University and Internationalization
+Anadolu University, aiming for being an internationally known universal university, in
+accordance with the basic principles, mission and vision it owns has given great importance to
+the quality improvement efforts as an essential part of the Bologna Process since its foundation.
+Internationalization strategy of Anadolu University is a coherent strategy which has been
+discussed institutionally and which is followed by the structured and responsible Committees.
+As Anadolu University continues onsite internationalization and cross-border
+internationalization activities together, it also considers quantitative factors as well as
+qualitative progress in these activities. Concerning onsite internationalization activities,
+exchanges, activities such as hiring foreign students and faculty members, research and project
+partnerships have been successfully maintained. Anadolu University, which has become a global
+brand in the field of open and distance Education, continues the cross-border
+internationalization activities through Open Education Faculty. As part of the Bologna reforms,
+ECTS Credit System is used throughout the University, and all graduates are given the Diploma
+Supplement.
+3.5.1. Internationalization and Instructors
+Being aware of the fact that internationalization is an overall workspace, Anadolu
+University carries out its studies intensively to make all of its components a part of these
+awareness-raising activities. The administrative and academic staff is encouraged to increase
+their international competence. Staff is supported with in-service training and exchange
+programs. In addition, various measures are taken for the effective utilization of exchange
+programs budget.
+3.5.2. Anadolu University Dual Degree Programs
+Various units of Anadolu University continue following dual degree programs in
+collaboration with universities in various countries:
+• Graduate School of Education Sciences/SUNY Cortland English Language Teaching
+M.A. Dual Degree Program,
+• Faculty of Education/SUNY Cortland English Language Teaching Dual Degree
+Program,
+• Faculty of Economics and Administrative Sciences/SUNY Cortland Economics
+Dual Degree Program,
+• Faculty of Economics and Administrative Sciences/SUNY Empire State College
+Business Administration Dual Degree Program,
+• Faculty of Economics and Administrative Sciences/Leeds Beckett University
+Business Administration Dual Degree Program,
+• Faculty of Engineering/Western Michigan University Civil Engineering Dual
+Degree Program,
+• Faculty of Engineering/Western Michigan University Industrial Engineering Dual
+Degree Program,
+• Faculty of Arts/University at Albany The agreement process regarding Sociology
+Dual Degree Program still continues,
+• Faculty of Science/University at Albany The agreement process regarding Biology
+and Chemistry Dual Degree Program still continues.
+3.5.3. Cross-Border Higher Education Activities
+Anadolu University, which has become a global brand in the field of Open and Distance
+Education, continues cross-border higher education activities through Open Education Faculty.
+Foreign students have been registered in the programs opened for districts through the
+offices in Europe, Balkans and Azerbaijan; and studies have been conducted to increase the
+number of students. In addition, studies are carried out for students enrolled in distance and
+open education to take part in international activities. These studies include projects aiming to
+make the virtual exchange possible and social projects involving the students. In addition, Open
+Education Faculty, which started using ECTS credits in the academic year 2013-2014, has
+achieved reaching the international standards with the course loads.
+3.5.4. European Volunteer Service (EVS)
+Application as "sender", "host" and "coordinating organization" has been made to
+European Volunteer Service Accreditation. Accreditation was taken in February 2015 (Appendix
+9). In the framework of this program, volunteer/cultural exchanges, which will improve our
+students socially, will have been carried out in addition to academic exchange programs carried
+out in our university.
+Similarly, in order to improve co-operation with civil society organizations in Europe an
+application for contact building seminar project involving 8 institutions has been made in the
+scope of EVS application.
+3.5.5. Courses Based on International Cooperation
+In order to help the students who cannot benefit from the international mobility gain
+international and intercultural experience, "Courses Based on International Cooperation"
+coordination has been established within the International Relations Unit. In this context, the
+university has become a member of Global Partner Netwok (GPN), which is formed by 20
+American and 17 non-American universities under the leadership of SUNY COIL (Collaborative
+Online International Learning) Center. In April 2015, presenting a strategic partnership project
+proposal on "Virtual Erasmus" to the European Commission has been planned in order to
+increase the efficiency of work in this field.
+APPENDIX‒1 ANADOLU UNIVERSITY 2014-2018 STRATEGIC PLAN
+GOAL 1. Constantly improving the educational-instructional activities
+Objective 1.1. Institutionalizing the competency-based educational-instructional culture
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+O.1.1/I.1.1 The number of updated programs Academic Units (S)
+Keeping the education and O.1.1/I.1.2 The number of updated course content Academic Units (S)
+O.1.1/S.1 instruction programs and curricula
+Academic Units (İ), Statistical
+up-to-date O.1.1/I.1.3 Students' satisfaction rate regarding the courses
+Information Unit (İBB) (S)
+O.1.1/I.1.4 The number of new courses each academic year Academic Units (S)
+Academic Units (S), International
+Relations Unit (UİB) (İ), Student
+The number of national/international
+O.1.1/I.2.1 Affairs Office (ÖİDB) (İ), Computer
+internships completed by the students
+Research and Application Center
+Increasing the effectiveness of
+O.1.1/S.2 (BAUM) (İ)
+internships and applications
+O.1.1/I.2.2 The number of lab, workshop etc. applications Academic Units (S)
+The number of students attending lab,
+O.1.1/I.2.3 Academic Units (S)
+workshop etc. applications
+Increasing the effectiveness of The rate of satisfaction about academic advisory Academic Units (İ), Academic
+O.1.1/S.3 O.1.1/I.3.1
+academic advising activity services Development Unit (AGB) (İ), İBB (S)
+The number of academic staff attending domestic
+O.1.1/I.4.1 Personnel Department (PDB) (S)
+exchange etc. programs
+The number of students attending domestic
+O.1.1/I.4.2 FKK (S), Academic Units (İ)
+exchange etc. programs
+Increasing the number of
+The number of academic staff attending
+O.1.1/S.4 national/international exchange O.1.1/I.4.3 UİB (S), Academic Units (İ)
+international exchange etc. programs
+programs
+The number of students attending international
+O.1.1/I.4.4 UİB (S), Academic Units (İ)
+exchange etc. programs
+The number of students/guest researchers/teaching
+O.1.1/I.4.5 staff visiting our university through exchange etc. UİB (S), Academic Units (İ)
+programs
+The number of current common undergraduate and
+O.1.1/I.5.1 Academic Units (S), UİB (İ)
+postgraduate programs
+Increasing the number of The number of the newly-opened common
+O.1.1/I.5.2 Academic Units (S), UİB (İ)
+national/international common undergraduate and postgraduate programs
+O.1.1/S.5
+undergraduate and ve postgraduate
+The number of current common undergraduate and
+O.1.1/I.5.3 Academic Units (S), UİB (İ)
+programs/courses
+postgraduate courses
+The number of newly-opened common
+O.1.1/I.5.4 Academic Units (S), UİB (İ)
+undergraduate and postgraduate courses
+Increasing the number of the proposals O.1.1/I.6.1 The number of current protocols UİB (S), Academic Units (İ)
+O.1.1/S.6 with the other national/international
+institutions O.1.1/I.6.2 The number of new/renewed protocols UİB (S), Academic Units (İ)
+Supporting cooperations between our
+Student Clubs Center (ÖKK) (S), UİB
+O.1.1/S.7 student clubs and other O.1.1/I.7.1 The number of cooperations
+(İ)
+national/international student clubs
+O.1.1/S.8 Increasing the number of postgraduate O.1.1/I.8.1 The number of postgraduate theses Institutes (S), ÖİDB (İ)
+studies
+O.1.1/I.8.2 The number of postgraduate students Institutes (S), ÖİDB (İ)
+O.1.1/I.9.1 The number of current interdisciplinary programs Institutes (S)
+O.1.1/I.9.2 The number of new interdisciplinary programs Institutes (S)
+Increasing the number of
+O1.1/S.9 interdisciplinary programs at the The number of current students in the
+O.1.1/I.9.3 Institutes (S), ÖİDB (İ)
+postgraduate level interdisciplinary programs
+The number of students in the new interdisciplinary
+O.1.1/I.9.4 Institutes (S), ÖİDB (İ)
+programs
+The number of students who enrolled in the
+O.1.1/I.10.1 Academic Units (İ), ÖİDB (S)
+programs of their first choice
+O.1.1/I.10.2 Registration rate of the allocated student quotas ÖİDB (S)
+Carrying out activities to increase the
+O.1.1/S.10
+university preference and recognition The number of foreign students enrolled in
+O.1.1/I.10.3 ÖİDB (S), UİB (İ)
+programs
+The number of activities aiming to promote the Academic Units (İ), Press and Public
+O.1.1/I.10.4
+university Relations Unit (BHİB) (S), UİB (İ)
+The number of programs that successfully
+Increasing the number of programs to O.1.1/I.11.1 completed the external assessment/accreditation Academic Units (S), ANADEK (İ)
+O.1.1/S.11 undergo external process
+assessment/accreditation
+The number of programs that are still undergoing
+O.1.1/I.11.2 Academic Units (S), ANADEK (İ)
+the external assessment/accreditation process
+The number of alumni reached through Alumni
+O.1.1/I.12.1 Alumni Association (MB) (S)
+Association
+The number of alumni began their career within two
+O.1.1/S.12 Increasing interaction with the alumni O.1.1/I.12.2 MB (İ), Academic Units (S)
+years after graduation
+O.1.1/I.12.3 The number of activities involving alumni MB (S), Academic Units (İ)
+The number of foreign teaching staff that teach in School of Foreign Languages (YDYO)
+O.1.1/I.13.1
+their native language (İ), Academic Units (İ), PDB (S)
+The number of academic staff with postgraduate
+O.1.1/I.13.2 Academic Units (İ), PDB (S)
+degrees from abroad
+The number of departments with compulsory
+Improving language education at the O.1.1/I.13.3 YDYO (İ), Academic Units (S)
+O.1.1/S.13 preparatory language education
+undergraduate level
+The rate of students that are successful in the
+O.1.1/I.13.4 YDYO (S), Academic Units (İ)
+preparatory language education
+The number of events organized in a foreign YDYO (S), Academic Units (S), BHİB
+O.1.1/I.13.5
+language (concerts, talks, theatrical plays etc.) (İ)
+O.1.1/I.13.6 The number of courses taught in a foreign language YDYO (S), Academic Units (S)
+Objective 1.2. Improving the educational-instructional facilities of the units
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Maintaining and improving the units'
+The number of labs, classrooms, offices etc. that have Academic Units (İ), Department of
+physical conditions such as buildings,
+O.1.2/S.1 O1.2/I.1.1 been improved in technological equipment/physical Construction and Technical Works
+labs, classrooms, office and keeping then
+conditions (YİTDB) (S)
+fully-equipped
+Making the educational-instructional
+O.1.2/S.2 O1.2/I.2.1 Completion rate All Units (İ), SDGB (S)
+activities sustainable
+Objective 1.3. Increasing the effectiveness of information and communication technologies in the educational-instructional system
+Activity Indicator
+Activities Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Increasing the number of, and Department of Library and
+O.1.3/S.1 O1.3/I.1 The number of users
+popularizing the use of the e-resources Documentation (KDDB) (S)
+that are accessible via the library
+The number of e-resources that are accessible via
+KDDB (S)
+the library
+The rate of satisfaction of information systems users BAUM (S), İBB (İ)
+Increasing the effectiveness of the
+O.1.3/S.2 O1.3/I.2
+information systems The rate of improvement of the data processing
+SGDB (S), BAUM (İ)
+infrastructure
+The number of courses prepared for the virtual
+Transferring the educational-
+Academic Units (S), BAUM (İ)
+environment
+instructional resources to the virtual
+O.1.3/S.3 O1.3/I.3
+environment and keeping the
+The number of courses updated for the virtual
+Academic Units (S), BAUM (İ)
+information up-to-date
+environment
+Life-long Learning and Research
+The number of certificate programs/activities
+Increasing the number of certificate Center (YÖAM) (S), All Units (İ)
+O.1.3/S.4 programs/activities offered in all types O1.3/I.4
+The number of participants attending certificate
+of media Academic Units (S)
+program/activities
+Objective 1.4. Improving the quality of life on all campuses
+Strategy Indicator Performance Indicators Responsible (S)/Involved Unit (I)
+Strategies
+No. No.
+SGDB (S), Department of Health,
+O1.4/I.1.1 Completion rate
+Culture and Sports (SKSDB) (İ)
+Increasing the social facilities and living
+O.1.4/S.1 O1.4/I.1.2 The number of social facilities on campus YİTDB (S), SKSDB (İ)
+spaces on the campuses
+O1.4/I.1.3 The number of social activities organized on campus BHİB (S), All Units (İ)
+Ensuring inter-campus and intra- Department of Administrative and
+O.1.4/S.2 O1.4/I.2.1 Completion rate
+campus transportation Financial Affairs (İMİDB) (S)
+Improving the quality of disability- Disabled Students Unit (İ), Academic
+O.1.4/S.3 O1.4/I.3.1 Completion rate
+friendly conditions Units (İ), YİTDB (S)
+GOAL 2. Increasing the quality and quantity of the research activities
+Objective 2.1. Effectively using and improving the infrastructure
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Academic Units (S),KDDB (İ), BAUM
+Taking measures to ensure the O2.1/I.1.1 The number of users
+(İ), Directorate of Workshops (İ)
+O.2.1/S.1 sustainability of the infrastructure of
+labs, workshops, studios, library etc. use O2.1/I.1.2 Completion rate SGDB (S)
+Creating/providing/updating an
+The number of provided/updated infrastructure/ BAUM (S), KDDB (S), Academic Units
+O.2.1/S.2 infrastructure/ database for research O2.1/I.2.1
+database created for research opportunities (İ)
+opportunities
+Developing infrastructure projects for
+O.2.1/S.3 O2.1/I.3.1 The number of projects SGDB (S)
+the Excellence Center
+Objective 2.2. Giving primacy to the interdisciplinary and community-serving projects
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Increasing the number of
+Project Unit (S), Academic Units (İ),
+O.2.2/S.1 interdisciplinary and socially beneficial O.2.2/I.1.1 The number of projects
+Centers (İ)
+projects
+Project Unit (S), Academic Units (İ),
+O.2.2/I.2.1 The number of suggested scientific studies
+Centers (İ)
+Increasing opportunities for
+O.2.2/S.2
+interdisciplinary scientific research
+Project Unit (S), Academic Units (İ),
+O.2.2/I.2.2 The number of continuing scientific studies
+Centers (İ)
+Project Unit (S), Academic Units (İ),
+O.2.2/I.2.3 The number of completed scientific studies
+Centers (İ)
+Objective 2.3. Developing university-sector cooperation
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Increasing the functionality of the R-D
+and Innovation Coordination Center and The number of activities carried out by ARİNKOM
+O.2.3/S.1 O.2.3/I.1.1 ARİNKOM TTO (S), Project Unit (İ)
+Technology Transfer Office (ARİNKOM TTO
+TTO)
+Academic Units (İ), ARİNKOM TTO
+O.2.3/I.2.1 The number of sectoral cooperations
+(S)
+The number of projects conducted together with the
+O.2.3/I.2.2 Academic Units (İ), Project Unit (S)
+Ensuring the sustainability of the sector
+O.2.3/S.2 University-public and private sector
+The number of academic staff participating in the
+cooperation O.2.3/I.2.3 Academic Units (İ), Project Unit (S)
+sectoral cooperation projects
+The number of BSc, MSc, MA and PhD students Akademik Birimler (S), Proje Birimi
+O.2.3/I.2.4
+participating in the sectoral cooperation projects (İ)
+Academic Units (S), Directorate of
+The number of organizations that are provided with
+O.2.3/I.3.1 Revolving Funds Management
+consulting services
+(DSİM) (İ), Project Unit (İ)
+Providing consultancy services for
+O.2.3/S.3
+public and industrial organizations
+Academic Units (S), Directorate of
+The number of academic staff that provide
+O.2.3/I.3.2 Revolving Funds Management
+consulting services
+(DSİM) (İ), Project Unit (İ)
+The number of projects funded by non-university
+O.2.3/I.4.1 Academic Units (İ), Project Unit (S)
+sources
+Producing projects funded by non-
+O.2.3/S.4
+university sponsors O.2.3/I.4.2 The number of participated projects Academic Units (İ), Project Unit (S)
+O.2.3/I.4.3 The number of applications Academic Units (İ), Project Unit (S)
+Objective 2.4. Increasing the quality and quantity of research activities
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+O.2.4/I.1.1 The number of suggested projects Academic Units (İ), Project Unit (S)
+Academic Units (İ), Project Unit (S),
+O.2.4/I.1.2 The number of accepted projects
+SGDB (İ)
+O.2.4/I.1.3 The number of projects per academic staff Academic Units (İ), Project Unit (S)
+The number of undergraduate/postgraduate
+O.2.4/S.1 Encouraging scientific research projects
+O.2.4/I.1.4 Academic Units (İ), Project Unit (S)
+projects
+The number of primary investigators/advisors/
+O.2.4/I.1.5 Academic Units (İ), Project Unit (S)
+researchers working in projects
+The number of preparatory trainings/activities for Academic Units (İ), Project Unit
+O.2.4/I.1.6
+scientific research projects (S),ARİNKOM (İ)
+O.2.4/I.2.1 The number of indexed publications ANADEK (S), Academic Units (İ)
+Increasing the quality and quantity of O.2.4/I.2.2 h index of the university ANADEK (S)
+O.2.4/S.2
+publications
+O.2.4/I.2.3 The number of citations in major indexes Academic Units (S) , ANADEK (İ)
+O.2.4/I.2.4 The number of publications per academic staff Academic Units (İ), ANADEK (S)
+The number of editors/chapter authors in
+O.2.4/I.2.5 Academic Units (S), ANADEK (İ)
+national/international books
+The number of academic staff attending national
+O.2.4/I.3.1 Academic Units (S), Project Unit (İ)
+scientific meetings
+Increasing the number of The number of academic staff attending
+O.2.4/I.3.2 Academic Units (S), Project Unit (İ)
+national/international scientific international scientific meetings
+O.2.4/S.3
+meetings attended/organized by
+The number of organized national/international
+academic staff O.2.4/I.3.3 Academic Units (S), Project Unit (İ)
+scientific meetings
+The number of academic staff that attended
+O.2.4/I.3.4 Academic Units (S), Project Unit (İ)
+national/international scientific meetings
+Objective 2.5. Increasing the quality and quantity of cultural, artistic and sports activities
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+O.2.5/I.1.1 The number of cultural events Academic Units (S),Centers (İ)
+Supporting the organization of cultural,
+O.2.5/S.1 artistic and sports events by all the O.2.5/I.1.2 The number of artistic events Academic Units (S),Centers (İ)
+university academic units
+O.2.5/I.1.3 The number of sports events Academic Units (S), Centers (İ)
+Supporting the participation of academic
+The number of academic staff attending
+O.2.5/S.2 staff in cultural, artistic and sports events O.2.5/I.2.1 UİB (İ), Academic Units (S)
+national/international events
+at national/ international level
+Ensuring the effective use of cultural,
+O.2.5/S.3 O.2.5/I.3.1 The number of people benefiting from the facilities SKSDB (S)
+artistic and sports facilities
+GOAL 3. Increasing the effectiveness and ensuring the sustainability of community service practices
+Objective 3.1. By using the communication facilities of the university and the social media, promoting the community service practices
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+BHİB (S), Academic Units (İ), Life-
+Organizing activities to share the "Life-
+long Learning and Research Center
+O.3.1/S.1 long Learning" focus of the university O.3.1/I.1.1 The number of events
+(YÖMER) (S), Student Clubs
+with all the segments of the community
+Coordinatorship (ÖKK) (İ)
+BHİB (İ), Strategic Research Center
+Increasing the community-oriented O.3.1/I.2.1 Measuring organizational perception (ANASAM) (S), İBB (İ), Academic
+O.3.1/S.2 communication activities of the Units (İ), YÖMER (İ)
+university
+O.3.1/I.2.2 The number of events BHİB (S),Academic Units (İ)
+Increasing the effectiveness of the
+H.3.1/S.3 O.3.1/I.3.1 The number of organized events Academic Units (S)
+Community Service Practices course
+Ensuring the effective representation of O.3.1/I.4.1 The number of positive reports in the media BHİB (S)
+O.3.1/S.4 the university in the national and
+O.3.1/I.4.2 The number of negative reports in the media BHİB (S)
+international media
+Carrying out activities to assess the
+O.3.1/S.5 perception of the university by the O.3.1/I.5.1 Survey results BHİB (S), ANASAM (İ)
+general public
+Objective 3.2. Increasing cooperation with the NGOs that serve the community
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Carrying out activities as a stakeholder BHİB (S), Academic Units (İ), ÖKK (İ),
+O.3.2/S.1 to work with the NGOs in social O.3.2/I.1.1 The number of cooperations conducted with NGOs International Civil Society Research
+responsibility projects and Application Center (İ)
+Objective 3.3. Ensuring that the community-service oriented cultural, artistic, sports, scientific etc. activities at the national and international level more
+effectively reaches all segments of the community
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+In all of the cultural, artistic, sports, etc. The number of places reserved for the
+O.3.3/S.1 O.3.3/I.1.1 All Units (S)
+events of the university, reserving a disadvantaged
+certain part of the event venue for the
+disadvantaged
+Organizing a certain number of the O.3.3/I.2.1 The number of events All Units (S)
+cultural, artistic, sports, etc. events of the
+university in the institutions of the
+O.3.3/S.2
+disadvantaged in the community O.3.3/I.2.2 The number of participants in the events All Units (S)
+(Retirement home, prison, Child Welfare
+Agency, women's shelter, etc.)
+Organizing activities to encourage O.3.3/I.3.1 The number of events All Units (S)
+O.3.3/S.3
+community service O.3.3/I.3.2 The number of projects All Units (S)
+Conducting activities to contribute to the
+O.3.3/S.4 O.3.3/I.4.1 The number of studies All Units (S)
+development of the city and the region
+GOAL 4. Increasing the effectiveness of the Open Education system
+Objective 4.1. Ensuring the sustainability of the learner-centered, flexible, accessible and technology-based quality of the Open Education system
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved (I) Unit
+No. No.
+O.4.1/I.1.1 The number of upgraded hardware BAUM (S), AÖF (İ)
+Developing the quality of computer
+O.4.1/I.1.2 The number of updated/designed software BAUM (S)
+O.4.1/S.1 software and hardware infrastructure of
+the system Rate of achievement for the aimed infrastructure
+O.4.1/I.1.3 SGDB (S)
+upgrade
+Faculties of Open Education,
+O.4.1/I.2.1 The number of current programs Economics and Management (S),
+O.4.1/S.2 Increasing program diversity Academic Units (İ)
+Faculties of Open Education,
+O.4.1/I.2.2 The number of new programs
+Economics and Management (S)
+Ensuring the production of new course Faculties of Open Education,
+O.4.1/S.3 materials, improving and updating the O.4.1/I.3.1 The number of newly-produced course materials Economics and Management (S),
+current materials Academic Units (İ)
+Faculties of Open Education,
+O.4.1/I.3.2 The number of developed/updated course materials Economics and Management (S),
+Academic Units (İ)
+Making necessary changes in the Faculties of Open Education,
+O.4.1/S.4 O.4.1/I.4.1 The number of activities
+organizational structure of the units Economics and Management (S)
+The number of programs in the accreditation Faculties of Open Education,
+O.4.1/I.5.1
+process Economics and Management (S)
+Initiating and ensuring the sustainability
+The number of programs with completed/renewed Faculties of Open Education,
+O.4.1/S.5 of the accreditation process for O.4.1/I.5.2
+accreditation Economics and Management (S)
+programs
+Faculties of Open Education,
+O.4.1/I.5.3 Rate of accredited programs
+Economics and Management (S)
+Contributing to the legislature on Faculties of Open Education,
+O.4.1/S.6 O.4.1/I.6.1 The number of activities
+systemic operation Economics and Management (S)
+Using alternative methods and tools in
+The number of different methods and tools Faculties of Open Education,
+O.4.1/S.7 the evaluation and assessment of O.4.1/I.7.1
+integrated into the system Economics and Management (S)
+student achievement
+Objective 4.2. Increasing the effectiveness of the communication and learning technologies in the Open Education system
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Faculties of Open Education,
+Economics and Management (S),
+O.4.2/I.1.1 The number of completed studies
+Conducting research to guide and Distance Education Research and
+O.4.2/S.1 contribute to Open Education Development Unit (UÖAGB) (İ)
+applications Faculties of Open Education,
+O.4.2/I.1.2 The number of continuing studies Economics and Management (S),
+(UÖAGB) (İ)
+Faculties of Open Education,
+Creating technological applications to be
+O.4.2/S.2 O.4.2/I.2.1 The number of continuing studies Economics and Management (S),
+used in Open Education
+(UÖAGB) (İ)
+Faculties of Open Education,
+O.4.2/I.2.2 The number of completed studies Economics and Management (S),
+(UÖAGB) (İ)
+Faculties of Open Education,
+Cooperating with research-development
+O.4.2/S.3 O.4.2/I.3.1 The number of cooperative institutions Economics and Management (S),
+organizations/institutions
+(UÖAGB) (İ)
+Faculties of Open Education,
+O.4.2/I.4.1 The number of organized events Economics and Management (S),
+Organizing national/international (UÖAGB) (İ)
+O.4.2/S.4
+scientific events Faculties of Open Education,
+O.4.2/I.4.2 The number of participants in the events Economics and Management (S),
+(UÖAGB) (İ)
+UÖAGB (S), Faculties of Open
+O.4.2/I.5.1 The number of continuing studies Education, Economics and
+Increasing the functionality of the Open
+Management (İ)
+O.4.2/S.5 and Distance Education Research and
+UÖAGB (S), Faculties of Open
+Development Center
+O.4.2/I.5.2 The number of completed studies Education, Economics and
+Management (İ)
+Objective 4.3. Training and developing human resources for the Open Education system
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Applying for the establishment of an Rectorate(S), Open Education Faculty
+O.4.3/S.1 O.4.3/I.1.1 Status of realization
+associate professorship degree (AÖF) (İ)
+Opening courses on open education Faculties of Open Education,
+O.4.3/S.2 applications in the formal education O.4.3/I.2.1 The number of opened courses Economics and Management (S),
+programs Academic Units (İ)
+Opening master's and doctoral level
+O.4.3/S.3 distance education courses via O.4.3/I.3.1 The number of opened courses AÖF (S), Institutes (İ)
+international cooperation
+Establishing an Open and Distance AÖF (S), Faculties of Economics and
+O.4.3/S.4 O.4.3/I.4.1 Status of realization
+Education National Excellence Center Management (İ), SGDB (İ)
+Objective 4.4. Taking steps to improve the Open Education system reputation
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+AÖF (S), Faculties of Economics and
+Taking steps to improve the institutional O.4.4/I.1.1 The number of activities
+Management (İ)
+O.4.4/S.1 perception of the units in the Open
+AÖF (S), Faculties of Economics and
+Education system O.4.4/I.1.2 Graduation rate
+Management (İ)
+Organizing activities to increase Open Education Faculty (S), Faculties
+O.4.4/S.2 cooperation with the Open Education O.4.4/I.2.1 The number of activities of Economics and Management (İ),
+system alumni Alumni Association (İ)
+Organizing activities to increase Open Education Faculty (S), Faculties
+O.4.4/S.3 cooperation of the Open Education O.4.4/I.3.1 The number of activities of Economics and Management (İ),
+system with external stakeholders Alumni Association (İ)
+GOAL 5. Ensuring the effectiveness, efficiency, and sustainability of the management system
+Objective 5.1. Developing human resources applications
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+The number of professional activities organized for
+O.5.1/I.1.1 PDB (S), SKSDB (S)
+the employees
+Increasing the number of activities to
+O.5.1/S.1 help with the employees' professional
+The number of advisors/primary investigators/
+growth
+O.5.1/I.1.2 researchers working in the activities to help with PDB (S), SKSDB (İ)
+employees' professional development
+O.5.1/I.2.1 The number of conducted in-service trainings PDB (S), YÖMER (İ), AGB (İ)
+The number of academic staff that benefited from in-
+Organizing in-service training for the O.5.1/I.2.2 PDB (S), YÖMER (İ), AGB (İ)
+O.5.1/S.2 service trainings
+academic and administrative staff
+The number of administrative staff that benefited
+O.5.1/I.2.3 PDB (S), YÖAM (İ)
+from in-service trainings
+Objective 5.2. Taking steps to have legal regulations in accordance with the original structure of the university
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+Contributing to the scientific research, Legal Consultancy Department (S),
+O.5.2/S.1 financial, personnel and educational O.5.2/I.1.1 The number of activities İMİDB (İ), Directorate of Revolving
+legislature Funds Management (İ)
+Objective 5.3. Developing the business processes and organizational structure
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+The Board of Internal Control
+Expediting the internal control system Action plan that meets the internal control
+O.5.3/S.1 O.5.3/I.1.1 Monitoring and Guidance (S) , PDB
+processes standards
+(İ), SGDB (İ)
+Launching the Electronic Document
+O.5.3/S.2 O.5.3/I.2.1 Status of completion BAUM (S), İMİDB (İ)
+Management System (EBYS)
+Launching a quality management system
+O.5.3/S.3 to be applied in all the units in the O.5.3/I.3.1 Status of completion ANADEK (S)
+university
+Objective 5.4. Increasing national and international recognition
+Strategy Indicator
+Strategies Performance Indicators Responsible (S)/Involved Unit (I)
+No. No.
+O.5.4/I.1.1 The number of activities with national stakeholders BHİB (S), Academic Units (İ), ÖKK (İ)
+The number of activities with international UİB (S), BHİB (İ), Academic Units (İ),
+O.5.4/I.1.2
+stakeholders ÖKK (İ)
+Increasing the interaction and
+O.5.4/S.1 cooperation with all national and
+Legal Consultancy Department (S),
+international stakeholders
+O.5.4/I.1.3 The number of national cooperations FKK (İ), BHİB(İ), Academic Units (İ),
+ÖİDB (İ)
+Academic Units (S), UİB (S), BHİB (İ),
+O.5.4/I.1.4 The number of international cooperations Legal Consultancy Department (İ),
+ÖİDB (İ), Project Unit (İ)
+Carrying out collaborative work with
+O.5.4/S.2 world universities on life-long learning O.5.4/I.2.1 The number of collaborations YÖMER (S), UİB (İ)
+issues
+Research and Applied Center for the
+Organizing events to encourage
+O.5.4/I.3.1 The number of activities Turkish Nationals Abroad (YUTAM)
+international students to prefer Anadolu
+O.5.4/S.3
+(S), UİB (İ), Academic Units (İ)
+University in their education and
+research
+O.5.4/I.3.2 The number of international promotional materials UİB (S), BHİB (İ)
+Participations in international academic The number of participants in international
+O.5.4/S.4 O.5.4/I.4.1 UİB (S), Academic Units (İ)
+fairs academic fairs
+APPENDIX-2. GENERAL STRUCTURE OF THE TURKISH EDUCATION SYSTEM
+APPENDIX-3. ORGANIZATION CHART OF ANADOLU UNIVERSITY
+APPENDIX-4. DISTRIBUTION OF ACADEMIC STAFF ACCORDING TO ACADEMIC UNITS
+TOTAL NUMBER MALE FEMALE
+OF ACADEMIC
+UNITS
+STAFF F % F %
+OPEN EDUCATION FACULTY 184 97 52.72 87 47.28
+STATE CONSERVATORY 83 38 45.78 45 54.22
+FACULTY OF PHARMACY 74 21 28.38 53 71.62
+FACULTY OF HUMANITIES 96 44 45.83 52 54.17
+FACULTY OF EDUCATION 221 84 38.01 137 61.99
+RECTORATE 84 29 34.52 55 65.48
+RESEARCH INSTITUTE FOR THE HANDICAPPED 14 7 50.00 7 50.00
+SCHOOL FOR THE HANDICAPPED 33 11 33.33 22 66.67
+ESKİŞEHİR VOCATIONAL SCHOOL 24 8 33.33 16 66.67
+FACULTY OF SCIENCE 164 82 50.00 82 50.00
+FACULTY OF FINE ARTS 67 35 52.24 32 47.76
+FACULTY OF AEURONATICS AND ASTRONAUTICS 81 52 64.20 29 35.80
+FACULTY OF LAW 64 33 51.56 31 48.44
+FACULTY OF ECONOMICS AND ADMINISTRATIVE
+105 54 51.43 51 48.57
+SCIENCES
+FACULTY OF ECONOMICS 26 20 76.92 6 23.08
+FACULTY OF COMMUNICATION SCIENCES 99 53 53.54 46 46.46
+FACULTY OF BUSINESS ADMINISTRATION 28 16 57.14 12 42.86
+FACULTY OF ARCHITECTURE AND DESIGN 63 23 36.51 40 63.49
+FACULTY OF ENGINEERING 190 118 62.11 72 37.89
+PORSUK VOCATIONAL SCHOOL 36 19 52.78 17 47.22
+FACULTY OF HEALTH SCIENCES 23 9 39.13 14 60.87
+FACULTY OF SPORT SCIENCES 60 45 75.00 15 25.00
+FACULTY OF TOURISM 36 15 41.67 21 58.33
+VOCATIONAL SCHOOL OF TRANSPORTATION 21 18 85.71 3 14.29
+SCHOOL OF FOREIGN LANGUAGES 204 60 29.41 144 70.59
+RESEARCH INSTITUTE OF EARTH AND SPACE
+17 15 88.24 2 11.76
+SCIENCES
+YUNUS EMRE VOCATIONAL SCHOOL 14 5 35.71 9 64.29
+TOTAL 2111 1011 47.89 1100 52.11
+APPENDIX-5. NUMBER AND STATUS OF STAFF BY YEAR
+PERMANENT CONTRACTED STAFF
+TEMPORARY
+YEAR STATUS TOTAL
+657 4/A 657 4/D FOREIGN TURKISH WORKERS
+ACADEMIC 657 657
+(CIVIL (TEMP. STA. CONT. CONT.
+STAFF 4/B 4/C
+SERVANTS) WOR.) LECT. LECT.)
+2009 1,760 1,657 135 19 14 131 4 235 3,955
+2010 1,750 1,667 116 21 14 130 3 221 3,922
+2011 1,816 1,728 109 23 14 127 25 212 4,054
+2012 1,897 1,746 96 28 14 115 18 208 4,122
+2013 2,000 1,875 135 31 14 86 16 250 4,407
+2014 2,111 1,850 128 31 13 109 10 230 4,482
+APPENDIX-6. ORGANIZATION CHART IN THE FACULTIES
+APPENDIX-7. CERTIFICATE OF APPRECIATION GIVEN BY THE PRESIDENCY OF TURKISH
+COUNCIL OF HIGHER EDUCATION FOR THE SUCCESSFUL WORK CARRIED
+OUT WITHIN TURKEY HIGHER EDUCATION QUALIFICATIONS FRAMEWORK
+(THEQF)
+TURKISH REPUBLIC
+PRESIDENCY OF TURKISH COUNCIL OF HIGHER EDUCATION
+COORDINATIONSHIP OF INTERNATIONAL RELATIONS DEPARTMENT
+TO ANADOLU UNIVERSITY RECTORATE
+In the concerning the letter sent to your institution by the Presidency related to the work to be
+carried out by our institutions of higher education within the scope of the implementation
+process of Turkey Higher Education Qualifications Framework (THEQF); it had been reported
+that all the required work for THEQF was completed by the university.
+Our assessment of your university for the above-mentioned topics are as follows;
+We congratulate your institution completing the work on the credit system based on the
+workload according to 2547 amendment to the law in 2011, and the National Higher Education
+Qualifications Framework which became binding by integrating into legislation in the
+subsequent period. When we consider that the natural process will be completed through
+external quality assessment, we wish you success in your attempts regarding this process.
+This document is kindly submitted for your information.
+Prof.Dr.Şaban Halis ÇALIŞ
+VICE CHAIRMAN
+APPENDIX-8. THE LIST OF CENTERS OPENED IN THE LAST FIVE YEARS
+Item Foundation Official Gazette
+Name of the Research Center Director
+No: Date Number
+Anadolu University International
+1 Civil Society Application and 07.03.2013 07.03.2013/28580 Prof.Dr.Ali ŞİMŞEK
+Research Center
+Anadolu University Center for
+2 14.05.2013 21.11.2013/28828 Prof. Dr. Servet TURAN
+Advanced Technology Research
+Anadolu University Haydar
+3 Aliyev Application and Research 14.05.2013 21.11.2013/28828 --
+Center
+Anadolu University Gifted and
+4 Talented Education Application 11.07.2014 11.07.2014/29057 Prof. Dr. Uğur SAK
+and Research Center
+Anadolu University Turkish
+Assos. Prof. Dr. Emine
+5 World Application and Research 11.07.2014 11.07.2014/29057
+KOLAÇ
+Center
+Turks Abroad Application and Prof. Dr. Mustafa
+6 11.10.2014 11.10.2014/29142
+Research Center ÇAKIR
+APPENDIX-9. EUROPEAN VOLUNTEER SERVICE ACCREDITATION CERTIFICATE
+TURKISH REPUBLIC
+MINISTRY of EUROPEAN UNIONS
+Presidency of European Union Education and Youth Programs Center
+TURKISH NATIONAL AGENCY
+TO ANADOLU UNIVERSITY INTERNATIONAL RELATIONS DEPARTMENT
+(Dear Naci GÜNDOĞAN)
+Your request for being accrediated considering the Youth Volunteer Organization Accreditation
+in the scope of Youth Program was decided with the 04/02/2015 dated decision number 1.
+Your Institution's accretitation is valid till the date 31.12.2020 with the reference number
+983142434 in the AGH system. You can get further information about your accreditation from
+the link http://europa.eu/youth/evs_database following the update of the commission's
+database.
+Starting with the first application date, you can apply as a "sender", "host" and
+"coordinating organization" to our Presidency and European Executive Agency.
+In addition, the maximum number of your Institution's hosting at a time has been
+determined as 1 (one).
+Furthermore, one person needs to participate in the Accreditation Education which will
+be announced later as the project officer, as stated in the application form. Your accreditation
+will be suspended unless your project officer participates in the mentioned education.
+Yours respectfully,
+Sefa YAHŞİ
+Gneral Coordinator
+Project Details
+Name of the ANADOLU UNIVERSITY INTERNATIONAL RELATIONS DEPARTMENT
+Institution
+Accreditation 983142434
+number
+Official Naci GÜNDOĞAN
+Representative
+Project Officer Bilge Kaan OZDEMİR
+Address International Relations Office Yunusemre Campus 26470 ESKISEHIR
+Accreditation Type Sender - Coordinating Organization - Host
